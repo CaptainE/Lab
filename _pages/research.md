@@ -1,32 +1,39 @@
 ---
-title: "Allan Lab - Research"
+title: "BelongieLab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "BelongieLab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
-
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+Our group’s research focuses on Computer Vision, Machine Learning, and Human-in-the-Loop Computing with applications ranging from image based geolocalization to assistive technology for the visually impaired. Much of our work involves humans and machines working together to solve challenging problems involving fine grained categorization and perceptual organization. Follow the links below to learn about our project themes and see our publications in these areas.
 
 Here are some themes and techniques that we currently work on:
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+**Embeddings and  Metric Learning.** ![]({{ site.url }}{{ site.baseurl }}/images/respic/MetricLearning.png){: style="width: 250px; float: left; margin: 0px 10px"}Understanding similarities between images is a key problem in computer vision. To measure the similarity between images, they are typically embedded in a featurevector space, in which their distance preserve the relative dissimilarity. These vector space representations are commonly used in applications such as image retrieval, classification or visualizations.
+
+In our group, we are interested in many aspects of similarity learning. On one hand, we work on fundamental methods to learn similarity spaces. One the other hand, we work on applications of visual similarities in areas such as fine-grained categorization and recommendation systems. 
 
 
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+**Privacy and security.** 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/PrivacySecurity.png){: style="width: 250px; float: right; margin: 0px  10px"}
+Massive data collection required for training deep neural networks presents serious privacy issues. Centralized collection of photos, speech, and video from millions of individuals is ripe with privacy risks. 
 
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+Ideally, the learning algorithms would protect the privacy of users’ training data, by guaranteeing that the output model generalizes away from the specifics of any individual user. 
+However, established machine learning algorithms make no such guarantee, and private, sensitive training data can be recovered from models. A model may implicitly store some of its training data, and careful analysis of the model may therefore reveal sensitive information. 
 
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
+We aim to better understand vulnerabilities of machine learning models and to provide proper defense methods against adversarial attacks.
 
-We also detected and investigated a quite particular YSR state in the same material.
+**Visual Style**.
+![]({{ site.url }}{{ site.baseurl }}/images/respic/VisualStyle.png){: style="width: 250px; float: left; margin: 0px  10px"}
+Style and content are two separate factors of an image. While most previous computer vision research has been focused on visual content (e.g., recognizing object categories), there is an increasing interest in understanding and manipulating visual style. At SE(3), we are mainly interested in two different but related domains: 1) Artistic style, and 2) Clothing style.<br/><br/><br/>
+
+
+**COCO.** Common Objects in Context (COCO) is a database that aims to enable future research for object detection, instance segmentation, image captioning, and person keypoints localization.
+
+For more details, see [mscoco](https://cocodataset.org) 
 
 **Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
 For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
