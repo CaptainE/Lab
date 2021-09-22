@@ -67,13 +67,13 @@ Video data understanding has drawn considerable interest in recent times as a re
 
 Subcategories in this field includes:
 
-#### Object Detection in Video ####
+**Object Detection in Video**
 
-#### Semantic Segmentation in Video ####
+**Semantic Segmentation in Video**
 
-#### Supervoxel Segmentation ####
+**Supervoxel Segmentation**
 
-#### Musical Instrument Retrieval in Video ####
+**Musical Instrument Retrieval in Video**
 
 
 
