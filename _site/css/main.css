@@ -1629,15 +1629,15 @@ tbody.collapse.in { display: table-row-group; }
 
 @media (min-width: 768px) { .navbar-left { float: left !important; } .navbar-right { float: right !important; margin-right: -15px; } .navbar-right ~ .navbar-right { margin-right: 0; } }
 
-.navbar-default { background-color: #f8f8f8; border-color: #e7e7e7; }
+.navbar-default { background-color: #b31b1b; border-color: #e7e7e7; }
 
-.navbar-default .navbar-brand { color: #333333; }
+.navbar-default .navbar-brand { color: #ececec; }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus { color: #333333; background-color: transparent; }
 
 .navbar-default .navbar-text { color: #555555; }
 
-.navbar-default .navbar-nav > li > a { color: #999999; }
+.navbar-default .navbar-nav > li > a { color: #fff; }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus { color: #333333; background-color: transparent; }
 

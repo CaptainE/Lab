@@ -399,7 +399,7 @@
   border-color: $navbar-default-border;
 
   .navbar-brand {
-    color: $navbar-default-brand-color;
+    color: #ececec;
     &:hover,
     &:focus {
       color: $navbar-default-brand-hover-color;
@@ -413,7 +413,7 @@
 
   .navbar-nav {
     > li > a {
-      color: $navbar-default-link-color;
+      color: #fff;
 
       &:hover,
       &:focus {
