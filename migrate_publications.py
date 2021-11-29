@@ -6,6 +6,8 @@ Usage:
 step 1: download the publication from wordpress in bibtex(.bib) format
 step 2: execute below command with the correct path to the downloaded file:
   python migrate_publications.py --bib-path "/Users/menglin/Projects/website_conctribution/teachpress_pub_23092021.bib"
+
+# TODO: how to add new publications
 """
 import argparse
 import yaml
@@ -32,12 +34,11 @@ def parse_bibtex(args):
   #   display:  PNAS 108, 18233 (2011)
   # highlight: 0
   # news2:
-    print("Step 1: Reading publications from {}".format(args.bib_path))
+    print("Step 1.1: Reading publications from {}".format(args.bib_path))
 
     with open(args.bib_path, "r") as f:
         lines = f.readlines()
     pub_list = []  # a list of dict
-    pub_venue = set()
     pub_years = []
 
     previous_l = ""
@@ -49,8 +50,9 @@ def parse_bibtex(args):
         if line.startswith("@"):
             # initialize a new dict
             pub_dict = {}
+            pub_dict["pub_type"] = line.split("@")
             pub_dict["ref"] = line.split("{")[-1].split(",")[0]
-            pub_venue.add(line.split("@")[-1].split("{")[0])
+            pub_dict["pub_type"] = line.split("@")[-1].split("{")[0]
         elif line.startswith("}"):
             pub_list.append(pub_dict)
 
@@ -59,7 +61,6 @@ def parse_bibtex(args):
             previous_l = line
         else:
             # title, author, url, year, date, booktitle, address, note, and keywords
-            # {'inproceedings', 'techreport', 'phdthesis', 'book', 'incollection', 'article', 'inbook', 'mastersthesis', 'conference'}
             if not line.endswith("},"):
                 line = line + ","
             k, v = _extract(previous_l + line)
@@ -83,10 +84,119 @@ def parse_bibtex(args):
             else:
                 pub_dict[k] = v
 
-    print("...parsed {} publications".format(len(pub_list)))
-    print(pub_venue)
     pub_years = sorted(list(set(pub_years)), reverse=True)
-    return pub_list, pub_years
+    print("...parsed {} publications".format(len(pub_list)))
+
+    print("Step 1.2: Unifying different pub_types for proper display")
+    """
+    author
+    **title**
+    venue, year, note
+    link
+
+    Following types are currently supported:
+    {
+    'inproceedings', 'conference', 'article','techreport',
+    'book','inbook','incollection',
+    'phdthesis', 'mastersthesis'
+    }
+    """
+    unified_pub_list = []
+    for pub_dict in pub_list:
+        if "author" in pub_dict and "Belongie" not in pub_dict["author"]:
+            print(pub_dict)
+            continue
+
+        p_type = pub_dict["pub_type"]
+        if p_type == "conference" or p_type == "inproceedings":
+            # venue = "{booktile / publisher}, {address}". e.g. CVPR, Salt Lake City, UT
+            # if there is no venue provided, will raise error
+            if "booktitle" in pub_dict:
+                v_key = "booktitle"
+            elif "publisher" in pub_dict:
+                v_key = "publisher"
+            else:
+                raise ValueError("the conference bibtax does not contain booktitle or publisher information:\n", pub_dict)
+            pub_dict["venue"] = pub_dict[v_key]
+
+            if "address" in pub_dict:
+                pub_dict["venue"] += ", {}".format(pub_dict["address"])
+
+            pub_dict["venue"] += ", "
+
+        elif p_type == "techreport":
+            # venue = "{insitituion} ({number})" or "({number})" or " "
+
+            if "institution" in pub_dict:
+                venue_str = pub_dict["institution"]
+            else:
+                venue_str = ""
+
+            if "number" in pub_dict:
+                if len(venue_str) > 0:
+                    venue_str += " "
+                venue_str += "({})".format(pub_dict["number"])
+
+            if len(venue_str) > 0:
+                pub_dict["venue"] = venue_str + ", "
+            else:
+                pub_dict["venue"] = " "
+
+        elif p_type == "article":
+            # venue = "{journal/publisher}, {volumn} ({number})"
+            # if there is no venue provided, will raise error
+            if "journal" in pub_dict:
+                venue_str = "{}".format(pub_dict["journal"])
+            elif "publisher" in pub_dict:
+                venue_str = "{}".format(pub_dict["publisher"])
+            else:
+                venue_str = ""
+
+            if "volume" in pub_dict:
+                venue_str += ", {}".format(pub_dict["volume"])
+                if "number" in pub_dict:
+                    venue_str += " ({})".format(pub_dict["number"])
+            pub_dict["venue"] = venue_str + ", "
+
+        elif p_type == "book" or p_type == "inbook":
+            # "{booktitle}, {publisher}" or "{publisher}"
+            if "booktitle" in pub_dict:
+                venue_str = pub_dict["booktitle"]
+            else:
+                venue_str = ""
+
+            if "publisher" in pub_dict:
+                if len(venue_str) > 0:
+                    venue_str += " "
+                venue_str += pub_dict["publisher"]
+
+            if len(venue_str) > 0:
+                pub_dict["venue"] = venue_str + ", "
+            else:
+                pub_dict["venue"] = " "
+
+
+        elif p_type == "incollection":
+            # only one
+            # Large-Scale Visual Geo-Localization, pp. 59-76, Springer, 2016.
+            # "{booktitle}, pp. {pages}, {publisher}, "
+            pub_dict["venue"] = "{}, pp. {}, {}, ".format(
+                pub_dict["booktitle"],
+                pub_dict["pages"],
+                pub_dict["publisher"]
+            )
+
+        elif "thesis" in p_type:
+            # Cornell University, 2014, (MEng Project Report).
+            # {school}
+            pub_dict["venue"] = "{}, ".format(pub_dict["school"])
+
+        if "link" not in pub_dict:
+            pub_dict["link"] = {"url": "", "display": "PDF"}
+        unified_pub_list.append(pub_dict)
+
+    print("...transformed {} publications".format(len(unified_pub_list)))
+    return unified_pub_list, pub_years
 
 
 def write_yaml(pub_list, pub_years):

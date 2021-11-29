@@ -6,8 +6,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2021/08/02380.pdf
+  pub_type: conference
   ref: Poursaeed2021
   title: Robustness and Generalization via Generative Adversarial Training
+  venue: 'International Conference on Computer Vision (ICCV), Virtual, '
   year: '2021'
 - address: Virtual
   author: Menglin Jia\*, Zuxuan Wu\*, Austin Reiter, Claire Cardie, Serge Belongie,
@@ -19,8 +21,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2021/08/05398.pdf
   note: ', (*Equal Contribution)'
+  pub_type: conference
   ref: Jia2021b
   title: Exploring Visual Engagement Signals for Representation Learning
+  venue: 'International Conference on Computer Vision (ICCV), Virtual, '
   year: '2021'
 - address: Virtual
   author: Zekun Hao, Arun Mallya, Serge Belongie, Ming-Yu Liu
@@ -30,8 +34,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2021/08/08075.pdf
+  pub_type: conference
   ref: Hao2021
   title: 'GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds'
+  venue: 'International Conference on Computer Vision (ICCV), Virtual, '
   year: '2021'
 - address: Virtual
   author: Katie Luo\*, Guandao Yang\*, Wenqi Xian, Harald Haraldsson, Bharath Hariharan,
@@ -43,8 +49,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2021/03/stay_positive.pdf
   note: ', (Oral, *Equal Contribution)'
+  pub_type: conference
   ref: Luo*2021
   title: 'Stay Positive: Non-Negative Image Synthesis for Augmented Reality'
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Virtual, '
   year: '2021'
 - address: Virtual
   author: Menglin Jia, Zuxuan Wu, Austin Reiter, Claire Cardie, Serge Belongie, Ser-Nam
@@ -55,8 +63,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2021/03/intentonomy.pdf
+  pub_type: conference
   ref: Jia2021
   title: 'Intentonomy: a Dataset and Study towards Human Intent Understanding'
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Virtual, '
   year: '2021'
 - address: Virtual
   author: Boyi Li\*, Felix Wu\*, Ser-Nam Lim, Serge Belongie, Kilian Weinberger
@@ -67,8 +77,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2021/03/MoEx-1.pdf
   note: ', (*Equal Contribution)'
+  pub_type: conference
   ref: Li*2021
   title: On Feature Normalization and Data Augmentation
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Virtual, '
   year: '2021'
 - address: Virtual
   author: Rui Qian\*, Tianjian Meng\*, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang,
@@ -80,8 +92,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2021/03/CVRL.pdf
   note: ', (*Equal Contribution)'
+  pub_type: conference
   ref: Qian*2021
   title: Spatiotemporal Contrastive Video Representation Learning
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Virtual, '
   year: '2021'
 - address: Virtual
   author: Grant Van Horn, Elijah Cole, Sara Beery, Kimberly Wilber, Serge Belongie,
@@ -92,19 +106,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2021/03/NeWT.pdf
+  pub_type: conference
   ref: VanHorn2021
   title: Benchmarking Representation Learning for Natural World Image Collections
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Virtual, '
   year: '2021'
-- author: Omid Poursaeed, Tianxing Jiang, Quintessa Qiao, Nayun Xu, Vladimir Kim
-  date: '2020-10-02'
-  journal: International Conference on 3D Vision (3DV)
-  keywords: network architectures, generative-models
-  link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2020/10/Self_supervised_Point_Clouds.pdf
-  ref: poursaeed2020self
-  title: Self-supervised Learning of Point Clouds via Orientation Estimation
-  year: '2020'
 - author: Ranjita Thapa, Kai Zhang, Noah Snavely, Serge Belongie, Awais Khan
   date: '2020-09-30'
   journal: Applications in Plant Sciences
@@ -113,9 +119,11 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/09/aps3.11390.pdf
   number: '9'
+  pub_type: article
   ref: Thapa2020b
   title: The Plant Pathology Challenge 2020 data set to classify foliar disease of
     apples
+  venue: 'Applications in Plant Sciences, 8 (9), '
   volume: '8'
   year: '2020'
 - address: Glasgow, Scotland
@@ -128,8 +136,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/07/2004.12276.pdf
   note: ', (Oral, *Equal Contribution)'
+  pub_type: conference
   ref: Jia2020
   title: 'Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset'
+  venue: 'European Conference on Computer Vision (ECCV), Glasgow, Scotland, '
   year: '2020'
 - address: Glasgow, Scotland
   author: Ruojin Cai\*, Guandao Yang\*, Hadar Averbuch-Elor, Zekun Hao, Serge Belongie,
@@ -142,8 +152,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/08/ShapeGF-1.pdf
   note: ', (Spotlight, *Equal Contribution)'
+  pub_type: conference
   ref: Cai2020
   title: Learning Gradient Fields for Shape Generation
+  venue: 'European Conference on Computer Vision (ECCV), Glasgow, Scotland, '
   year: '2020'
 - address: Glasgow, Scotland
   author: Kevin Musgrave, Serge Belongie, Ser-Nam Lim
@@ -153,8 +165,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/09/2003.08505.pdf
+  pub_type: conference
   ref: Musgrave2020
   title: A Metric Learning Reality Check
+  venue: 'European Conference on Computer Vision (ECCV), Glasgow, Scotland, '
   year: '2020'
 - address: Vienna
   author: Aaron Lou\*, Isay Katsman\*, Qingxuan Jiang\*, Serge Belongie, Ser-Nam Lim,
@@ -166,20 +180,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/06/2003.00335.pdf
   note: ', (*Equal Contribution)'
+  pub_type: conference
   ref: Lou*2020
   title: "Differentiating through the Fr\xE9chet Mean"
-  year: '2020'
-- author: Omid Poursaeed, Matthew Fisher, Noam Aigerman, Vladimir Kim
-  booktitle: 'European Conference on Computer Vision (ECCV) '
-  date: '2020-07-04'
-  journal: European Conference on Computer Vision (ECCV)
-  keywords: generative-models
-  link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2020/07/HybridNet-1.pdf
-  ref: Poursaeed2020
-  title: Coupling Explicit and Implicit Surface Representations for Generative 3D
-    Modeling
+  venue: 'International Conference on Machine Learning (ICML), Vienna, '
   year: '2020'
 - address: Seattle, WA
   author: 'Ranjita Thapa, Noah Snavely, Serge Belongie, Awais Khan '
@@ -189,9 +193,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/06/11_plant_camera_ready.pdf
+  pub_type: conference
   ref: Thapa2020
   title: The FGVC Plant Pathology 2020 challenge dataset to classify foliar diseases
     of apples
+  venue: 'CVPR Workshop on Fine-Grained Visual Categorization (FGVC), Seattle, WA, '
   year: '2020'
 - address: Seattle, WA
   author: Rui Qian\*, Divyansh Garg\*, Yan Wang\*, Yurong You\*, Serge Belongie, Bharath
@@ -203,8 +209,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/04/rui_end2end.pdf
   note: ', (*Equal Contribution)'
+  pub_type: conference
   ref: Qian2020
   title: End-to-end Pseudo-LiDAR for Image-Based 3D Object Detection
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Seattle, WA, '
   year: '2020'
 - address: Seattle, WA
   author: 'Zekun Hao, Hadar Averbuch-Elor, Noah Snavely, Serge Belongie '
@@ -214,8 +222,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/04/DualSDF_zekun_cvpr20.pdf
+  pub_type: conference
   ref: Hao2020
   title: 'DualSDF: Semantic Shape Manipulation using a Two-Level Representation'
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Seattle, WA, '
   year: '2020'
 - address: Seattle, WA
   author: "S\xF8ren Skovsen, Harald Haraldsson, Abe Davis, Henrik Karstoft, Serge\
@@ -226,8 +236,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/06/Decoupled-Localization-and-Sensing-with-HMD-based-AR-for-Interactive-Scene-Acquisition.pdf
+  pub_type: conference
   ref: Skovsen2020
   title: Decoupled Localization and Sensing with HMD-based AR for Interactive Scene  Acquisition
+  venue: 'CVPR Workshop on Computer Vision for Augmented and Virtual Reality, Seattle,
+    WA, '
   year: '2020'
 - address: Seattle, WA
   author: "Harald Haraldsson, S\xF8ren Skovsen, Ser-Nam Lim, Steve Marschner, Serge\
@@ -238,8 +251,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/06/Head-mounted-Augmented-Reality-for-Guided-Surface-Reflectance-Capture.pdf
+  pub_type: conference
   ref: Haraldsson2020
   title: Head-mounted AR for Guided Surface Reflectance Capture
+  venue: 'CVPR Workshop on Computer Vision for Augmented and Virtual Reality, Seattle,
+    WA, '
   year: '2020'
 - author: "Damon Little, Melissa Tulig, Kiat Chuan Tan, Yulong Liu, Serge Belongie,\
     \ Christine Kaeser\u2010Chen, Fabi\xE1n Michelangeli, Kiran Panesar, RV Guha,\
@@ -251,9 +267,11 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/07/aps3.11365.pdf
   number: '6'
+  pub_type: article
   ref: Little2020
   title: An algorithm competition for automatic species identification from herbarium
     specimens
+  venue: 'Applications in Plant Sciences, 8 (6), '
   volume: '8'
   year: '2020'
 - author: 'Omid Poursaeed, Vladimir Kim, Eli Shechtman, Jun Saito, Serge Belongie '
@@ -263,8 +281,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/12/Neural_Puppet-1.pdf
+  pub_type: conference
   ref: poursaeed2019neural
   title: 'Neural Puppet: Generative Layered Cartoon Characters'
+  venue: 'Winter Conference on Applications of Computer Vision (WACV), '
   year: '2020'
 - author: Xuhong Li, Yves Grandvalet, Franck Davoine, Jingchun Cheng, Yin Cui, Hang
     Zhang, Serge Belongie, Yi-Hsuan Tsai, Ming-Hsuan Yang
@@ -275,8 +295,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/12/ivc_li2020.pdf
   number: '103853'
+  pub_type: article
   ref: Li2020
   title: 'Transfer Learning in Computer Vision Tasks: Remember Where You Come From'
+  venue: 'Image and Vision Computing, 93 (103853), '
   volume: '93'
   year: '2020'
 - address: Vancouver
@@ -288,18 +310,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/11/8440-positional-normalization.pdf
   note: ', (Spotlight, *Equal Contribution)'
+  pub_type: conference
   ref: Li2019
   title: Positional Normalization
-  year: '2019'
-- author: Eugene Bagdasaryan, Omid Poursaeed, Vitaly Shmatikov
-  booktitle: Neural Information Processing Systems (NeurIPS)
-  date: '2019-11-21'
-  keywords: privacy-and-security
-  link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2019/12/differential-privacy-1.pdf
-  ref: bagdasaryan2019differential
-  title: Differential Privacy has Disparate Impact on Model Accuracy
+  venue: 'Neural Information Processing Systems (NeurIPS), Vancouver, '
   year: '2019'
 - address: Hong Kong
   author: Maxwell Forbes, Christine Kaeser-Chen, Piyush Sharma, Serge Belongie
@@ -309,8 +323,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/09/1909.04101.pdf
+  pub_type: conference
   ref: Forbes2019
   title: 'Neural Naturalist: Generating Fine-Grained Image Comparisons'
+  venue: 'Conference on Empirical Methods in Natural Language Processing (EMNLP),
+    Hong Kong, '
   year: '2019'
 - address: Seoul, Korea
   author: Sheng Guo, Weilin Huang, Xiao Zhang, Prasanna Srikhanta, Yin Cui, Yuan Li,
@@ -322,8 +339,11 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/1906.05750.pdf
   note: ', (Best Paper Award)'
+  pub_type: conference
   ref: Guo2019
   title: The iMaterialist Fashion Attribute Dataset
+  venue: 'ICCV Workshop on Computer Vision for Fashion, Art, and Design (CVFAD), Seoul,
+    Korea, '
   year: '2019'
 - address: Seoul, Korea
   author: 'Guandao Yang\*, Xun Huang\*, Zekun Hao, Ming-Yu Liu, Serge Belongie, Bharath
@@ -335,8 +355,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/09/1906.12320.pdf
   note: ', (Oral, *Equal Contribution)'
+  pub_type: conference
   ref: YangHuang2019
   title: 'PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows'
+  venue: 'International Conference on Computer Vision (ICCV), Seoul, Korea, '
   year: '2019'
 - address: Seoul, Korea
   author: Qian Huang\*, Isay Katsman\*, Horace He\*, Zeqi Gu\*, Serge Belongie, Ser-Nam
@@ -348,9 +370,11 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/07/1907.10823.pdf
   note: ', (*Equal Contribution)'
+  pub_type: conference
   ref: Huang2019
   title: Enhancing Adversarial Example Transferability with an Intermediate Level
     Attack
+  venue: 'International Conference on Computer Vision (ICCV), Seoul, Korea, '
   year: '2019'
 - Chuan: "Chuan Tan and Yulong Liu and Denis Brul\xE9 and C\xE9dric Deltheil and Scott\
     \ Loarie and Grant {Van Horn} and Oisin {MacAodha} and Sara Beery and Pietro Perona\
@@ -362,8 +386,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/BISS_article_37230.pdf
+  pub_type: conference
   ref: Robertson2019
   title: Training Machines to Identify Species using GBIF-mediated Datasets
+  venue: 'Biodiversity Information Science and Standards (TDWG), Leiden, NL, '
   year: '2019'
 - address: Anchorage, AK
   author: Christine Kaeser-Chen, Tanya Birch, Katherine Chou, Tomer Gadot, Hartwig
@@ -374,8 +400,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/07/dmaic.pdf
+  pub_type: conference
   ref: Kaeser-Chen2019
   title: Towards Ethical Deployment of AI for Conservation Systems
+  venue: 'KDD Workshop Data Mining and AI for Conservation (DMAIC), Anchorage, AK, '
   year: '2019'
 - address: Long Beach, CA
   author: Parneet Kaur, Karan Sikka, Weijun Wang, Serge Belongie, Ajay Divakaran
@@ -385,8 +413,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/07/1907.06167.pdf
+  pub_type: conference
   ref: Kaur2019
   title: 'FoodX-251: A Dataset for Fine-grained Food Classification'
+  venue: 'CVPR Workshop on Fine-Grained Visual Categorization (FGVC), Long Beach,
+    CA, '
   year: '2019'
 - author: Andreas Veit, Serge Belongie
   date: '2019-06-21'
@@ -396,8 +427,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/Veit-Belongie2019.pdf
+  pub_type: article
   ref: Veit2019
   title: Convolutional Networks with Adaptive Inference Graphs
+  venue: 'International Journal of Computer Vision (IJCV), '
   year: '2019'
 - address: Long Beach, CA
   author: Yin Cui, Menglin Jia, Tsung-Yi Lin, Yang Song, Serge Belongie
@@ -407,8 +440,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/05/class_balanced.pdf
+  pub_type: conference
   ref: Cui2019
   title: Class-Balanced Loss Based on Effective Number of Samples
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, '
   year: '2019'
 - author: Guandao Yang, Tomasz Malisiewicz, Serge Belongie
   date: '2019-06-18'
@@ -417,8 +452,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/Yang_Learning_Data-Adaptive_Interest_Points_through_Epipolar_Adaptation_CVPRW_2019_paper.pdf
+  pub_type: article
   ref: SuperPointEA
   title: Learning Data-Adaptive Interest Points through Epipolar Adaptation
+  venue: 'Computer Vision and Pattern Recognition Workshops (CVPRW 2019), '
   year: '2019'
 - address: Long Beach, CA
   author: Chenyang Zhang, Christine Kaeser-Chen, Grace Vesom, Jennie Choi, Maria Kessler,
@@ -429,8 +466,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/iMet2019.pdf
+  pub_type: conference
   ref: Zhang2019
   title: The iMet Collection 2019 Challenge Dataset
+  venue: 'CVPR Workshop on Fine-Grained Visual Categorization (FGVC), Long Beach,
+    CA, '
   year: '2019'
 - address: Long Beach, CA
   author: Ran Sun, Harald Haraldsson, Yuhang Zhao, Serge Belongie
@@ -440,9 +480,12 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/35_Ran_Sun_CVPR_Submission.pdf
+  pub_type: conference
   ref: Sun2019
   title: 'Anon-Emoji: An Optical See-Through Augmented Reality System for Reducing
     Appearance Bias in Social Interactions'
+  venue: 'CVPR Workshop on Computer Vision for Augmented and Virtual Reality, Long
+    Beach, CA, '
   year: '2019'
 - address: Long Beach, CA
   author: "Janus N\xF8rtoft Jensen, Morten Hannemose, Jakob Wilm, Anders Bjorholm\
@@ -454,8 +497,11 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/Generating_Spatial_Attention_Cues_via_Illusory_Motion.pdf
   note: ', (Videos: http://people.compute.dtu.dk/jnje/illusory-motion)'
+  pub_type: conference
   ref: Jensen2019
   title: Generating Spatial Attention Cues via Illusory Motion
+  venue: 'CVPR Workshop on Computer Vision for Augmented and Virtual Reality, Long
+    Beach, CA, '
   year: '2019'
 - address: Long Beach, CA
   author: Po Yen Tseng, Harald Haraldsson, Serge Belongie
@@ -465,9 +511,12 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/32_Annotate_all__A_Perspective_Preserved_Asynchronous__Annotation_System_for_Collaborative_Augmented_Reality.pdf
+  pub_type: conference
   ref: Tseng2019
   title: Annotate All! A Perspective Preserved Asynchronous Annotation System forCollaborative
     Augmented Reality
+  venue: 'CVPR Workshop on Computer Vision for Augmented and Virtual Reality, Long
+    Beach, CA, '
   year: '2019'
 - address: Long Beach, CA
   author: Kiat Chuan Tan, Yulong Liu, Barbara Ambrose, Melissa Tulig, Serge Belongie
@@ -477,8 +526,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/1906.05372.pdf
+  pub_type: conference
   ref: Tan2019
   title: The Herbarium Challenge 2019 Dataset
+  venue: 'CVPR Workshop on Fine-Grained Visual Categorization (FGVC), Long Beach,
+    CA, '
   year: '2019'
 - address: Long Beach, CA
   author: Menglin Jia, Mengyun Shi,  Mikhail Sirotenko, Yin Cui, Bharath Hariharan,
@@ -489,20 +541,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/Fashionpedia_TechReport.pdf
+  pub_type: conference
   ref: Jia2019
   title: The Fashionpedia Ontology and Fashion Segmentation Dataset
-  year: '2019'
-- address: Long Beach, CA
-  author: Guandao Yang, Tianyi Zhang, Polina Kirichenko, Junwen Bai, Andrew Gordon
-    Wilson, Christopher De Sa
-  booktitle: Thirty-sixth International Conference on Machine Learning (ICML 2019)
-  date: '2019-06-09'
-  keywords: Low precision training
-  link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/1904.11943-2.pdf
-  ref: swalp
-  title: 'SWALP : Stochastic Weight Averaging in Low-Precision Training'
+  venue: 'CVPR Workshop on Fine-Grained Visual Categorization (FGVC), Long Beach,
+    CA, '
   year: '2019'
 - address: Long Beach, CA
   author: Horace He, Aaron Lou, Qingxuan Jiang, Isay Katsman, Serge Belongie, Ser-Nam
@@ -513,8 +556,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/06/Adversarial_Decomp_SPML19-1.pdf
+  pub_type: conference
   ref: He2019
   title: Adversarial Example Decomposition
+  venue: 'International Conference of Machine Learning Workshop (ICMLW), Long Beach,
+    CA, '
   year: '2019'
 - address: Hawaii
   author: Xiao Ma, Lina Mezghani, Kimberly Wilber, Hui Hong, Robinson Piramuthu, Mor
@@ -525,20 +571,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/11/Ma2019.pdf
+  pub_type: conference
   ref: Ma2019
   title: Understanding Image Quality and Trust in Peer-to-Peer Marketplaces
+  venue: 'Winter Conference on Applications of Computer Vision (WACV), Hawaii, '
   year: '2019'
-- author: David Burgstahler
-  date: '2018-10-30'
-  institution: Cornell Tech
-  keywords: augmented-and-mixed-reality, Assistive Tech
-  link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2018/10/PointAR_Eye_Safety_Feature_2018.pdf
-  ref: Burgstahler2018
-  title: 'PointAR: Eye Safety Feature'
-  type: Cornell Tech Summer Experience Report
-  year: '2018'
 - address: Vancouver, Canada
   author: Longqi Yang, Yin Cui, Yuan Xuan, Chenyang Wang, Serge Belongie, Deborah
     Estrin
@@ -548,9 +585,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/08/recsys18_unbiased_eval.pdf
+  pub_type: conference
   ref: Yang2018
   title: Unbiased Offline Recommender Evaluation for Missing-Not-At-Random Implicit
     Feedback
+  venue: 'ACM Conference on Recommender Systems (RecSys), Vancouver, Canada, '
   year: '2018'
 - address: Munich, Germany
   author: Omid Poursaeed, Guandao Yang, Aditya Prakash, Hanqing Jiang, Qiuren Fang,
@@ -561,8 +600,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/09/Deep-fundamental-matrix-estimation-camera-ready-2.pdf
+  pub_type: conference
   ref: Poursaeed2018deep
   title: Deep Fundamental Matrix Estimation without Correspondences
+  venue: 'European Conference on Computer Vision Workshops, Munich, Germany, '
   year: '2018'
 - address: Munich, Germany
   author: Andreas Veit, Serge Belongie
@@ -572,8 +613,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/07/convolutional-networks-adaptive.pdf
+  pub_type: conference
   ref: Veit2018b
   title: Convolutional Networks with Adaptive Inference Graphs
+  venue: 'European Conference on Computer Vision (ECCV), Munich, Germany, '
   year: '2018'
 - address: Munich, Germany
   author: Guandao Yang, Yin Cui, Serge Belongie, Bharath Hariharan
@@ -583,8 +626,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/07/GAN3DReconstruction_CameraReady.pdf
+  pub_type: conference
   ref: Yang12018
   title: Learning Single-View 3D Reconstruction with Limited Pose Supervision
+  venue: 'European Conference on Computer Vision (ECCV), Munich, Germany, '
   year: '2018'
 - address: Munich, Germany
   author: Xun Huang, Ming-Yu Liu, Serge Belongie, Jan Kautz
@@ -594,8 +639,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/07/paper_munit.pdf
+  pub_type: conference
   ref: Huang2018
   title: Multimodal Unsupervised Image-to-Image Translation
+  venue: 'European Conference on Computer Vision (ECCV), Munich, Germany, '
   year: '2018'
 - address: Stockholm, Sweden
   author: Isay Katsman, Rohun Tripathi, Andreas Veit, Serge Belongie
@@ -605,8 +652,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/07/icml-four-page.pdf
+  pub_type: conference
   ref: Katsman2018SemanticSW
   title: Semantic Segmentation with Scarce Data
+  venue: 'International Conference of Machine Learning Workshop (ICMLW), Stockholm,
+    Sweden, '
   year: '2018'
 - address: Salt Lake City, UT
   author: Grant Van Horn, Steve Branson, Scott Loarie, Serge Belongie, Pietro Perona
@@ -616,8 +666,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/03/1324.pdf
+  pub_type: conference
   ref: Horn2018
   title: Lean Multiclass Crowdsourcing
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, '
   year: '2018'
 - address: Salt Lake City, UT
   author: Grant Van Horn, Oisin Mac Aodha, Yang Song, Yin Cui, Chen Sun, Alex Shepard,
@@ -628,8 +680,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/03/1916.pdf, https://vision.cornell.edu/se3/wp-content/uploads/2018/03/1916-supp.pdf
+  pub_type: conference
   ref: Horn2018b
   title: The iNaturalist Species Classification and Detection Dataset
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, '
   year: '2018'
 - address: Salt Lake City, UT
   author: Andreas Veit, Maximilian Nickel, Serge Belongie, Laurens van der Maaten
@@ -639,8 +693,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/03/0252.pdf
+  pub_type: conference
   ref: Veit2018
   title: Separating Self-Expression and Visual Content in Hashtag Supervision
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, '
   year: '2018'
 - address: Salt Lake City, UT
   author: Gui-Song Xia, Xiang Bai, Jian Ding, Zhen Zhu, Serge Belongie, Jiebo Luo,
@@ -651,8 +707,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/03/2666.pdf
+  pub_type: conference
   ref: Xia2018
   title: 'DOTA: A Large-scale Dataset for Object Detection in Aerial Images'
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, '
   year: '2018'
 - address: Salt Lake City, UT
   author: Yin Cui, Yang Song, Chen Sun, Andrew Howard, Serge Belongie
@@ -662,8 +720,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/03/FGVC_CVPR_2018.pdf
+  pub_type: conference
   ref: Cui2018FGVC
   title: Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, '
   year: '2018'
 - address: Salt Lake City, UT
   author: Omid Poursaeed, Isay Katsman, Bicheng Gao, Serge Belongie
@@ -673,8 +733,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/03/2387.pdf, https://vision.cornell.edu/se3/wp-content/uploads/2018/03/2387-supp.pdf
+  pub_type: conference
   ref: Poursaeed2018
   title: Generative Adversarial Perturbations
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, '
   year: '2018'
 - address: Salt Lake City, UT
   author: Yin Cui, Guandao Yang, Andreas Veit, Xun Huang, Serge Belongie
@@ -684,8 +746,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/03/1501.pdf
+  pub_type: conference
   ref: Cui2018CaptionEval
   title: Learning to Evaluate Image Captioning
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, '
   year: '2018'
 - address: Salt Lake City, UT
   author: Zekun Hao, Xun Huang, Serge Belongie
@@ -695,8 +759,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/03/1575.pdf
+  pub_type: conference
   ref: Hao2018
   title: Controllable Video Generation with Sparse Trajectories
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, '
   year: '2018'
 - address: Salt Lake City, UT
   author: Harald Haraldsson, Doron Tal, Karla Polo-Garcia, Serge Belongie
@@ -706,8 +772,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/06/PointAR_EVW18_Poster.pdf
+  pub_type: conference
   ref: Haraldsson2018
   title: 'PointAR: Augmented Reality for Tele-Assistance'
+  venue: 'CVPR Workshop on Embedded Computer Vision, Salt Lake City, UT, '
   year: '2018'
 - author: Omid Poursaeed, Tomas Matera, Serge Belongie
   date: '2018-03-20'
@@ -716,19 +784,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2021/05/Vision_based_Real_Estate_Price_Estimation.pdf
+  pub_type: article
   ref: poursaeed2017vision
   title: Vision-based Real Estate Price Estimation
-  year: '2018'
-- author: Subarna Tripathi, Zachary Chase Lipton, Truong Nguyen
-  date: '2018-03-12'
-  journal: CoRR
-  keywords: Latent Vector Recovery, GAN
-  link:
-    display: PDF
-    url: http://arxiv.org/abs/1803.04477
-  ref: Tripathi2018
-  title: 'Correction by Projection: Denoising Images with Generative Adversarial Networks'
-  volume: abs/1803.04477
+  venue: 'Machine Vision and Applications, '
   year: '2018'
 - author: Andrew Mendez, Zexi Liu, Eric Jui-Chun Chien, Serge Belongie
   date: '2017-12-15'
@@ -736,8 +795,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/12/AR-Smart-Kitchen-1.pdf
+  pub_type: techreport
   ref: Mendez2017
   title: 'Smart Kitchen: A Multi-Modal AR System'
+  venue: ' '
   year: '2017'
 - address: Kyoto, Japan
   author: Baoguang Shi, Cong Yao, Minghui Liao, Mingkun Yang, Pei Xu, Linyan Cui,
@@ -748,9 +809,12 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/08/PID4980421.pdf
+  pub_type: conference
   publisher: IAPR
   ref: Shi2017b
   title: Competition on Reading Chinese Text in the Wild (RCTW-17)
+  venue: 'International Conference on Document Analysis and Recognition (ICDAR), Kyoto,
+    Japan, '
   year: '2017'
 - address: Kyoto, Japan
   author: Gomez, Raul, Shi, Baoguang, Gomez, Lluis, Numann, Lukas, Veit, Andreas,
@@ -761,9 +825,12 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2019/01/ICDAR2017b.pdf
+  pub_type: conference
   publisher: IAPR
   ref: Gomez2017
   title: ICDAR2017 competition on reading chinese text in the wild (RCTW-17)
+  venue: 'International Conference on Document Analysis and Recognition (ICDAR), Kyoto,
+    Japan, '
   year: '2017'
 - author: Xun Huang, Serge Belongie
   booktitle: International Conference on Computer Vision (ICCV), Venice, Italy
@@ -774,8 +841,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/08/adain.pdf
   note: ', (Oral)'
+  pub_type: conference
   ref: huang2017adain
   title: Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
+  venue: 'International Conference on Computer Vision (ICCV), Venice, Italy, '
   year: '2017'
 - address: Quebec City
   author: Rajan Vaish, Snehalkumar (Neil) S. Gaikwad, Geza Kovacs, Andreas Veit, Ranjay
@@ -787,9 +856,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/08/crowd-research-uist2017.pdf
+  pub_type: conference
   publisher: ACM
   ref: Vaish2017
   title: 'Crowd Research: Open and Scalable University Laboratories'
+  venue: 'User Interface Software and Technology (UIST), Quebec City, '
   year: '2017'
 - address: Venice, Italy
   author: Michael Wilber, Chen Fang, Hailin Jin, Aaron Hertzmann, John Collomosse,
@@ -800,19 +871,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/08/BAM_ICCV.pdf
+  pub_type: conference
   ref: Wilber2017
   title: BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography
-  year: '2017'
-- author: "Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Doll\xE1r"
-  booktitle: International Conference on Computer Vision (ICCV), Venice, Italy
-  date: '2017-10-22'
-  keywords: MS CoCo
-  link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2017/09/focal_loss.pdf
-  note: ', (Oral)'
-  ref: Lin2017b
-  title: Focal Loss for Dense Object Detection (Best Student Paper Award)
+  venue: 'International Conference on Computer Vision (ICCV), Venice, Italy, '
   year: '2017'
 - address: Honolulu, HI
   author: Baoguang Shi, Xiang Bai, Serge Belongie
@@ -823,8 +885,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/04/0919.pdf
+  pub_type: conference
   ref: Shi2017
   title: Detecting Oriented Text in Natural Images by Linking Segments
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, '
   year: '2017'
 - address: Honolulu, HI
   author: Andreas Veit, Serge Belongie, Theofanis Karaletsos
@@ -835,8 +899,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/04/CSN_CVPR-1.pdf
+  pub_type: conference
   ref: Veit2017
   title: Conditional Similarity Networks
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, '
   year: '2017'
 - address: Honolulu, HI
   author: Andreas Veit, Neil Alldrin, Gal Chechik, Ivan Krasin, Abhinav Gupta, Serge
@@ -848,8 +914,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/04/DeepLabelCleaning_CVPR.pdf
+  pub_type: conference
   ref: Veit2017b
   title: Learning From Noisy Large-Scale Datasets With Minimal Supervision
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, '
   year: '2017'
 - address: Honolulu, HI
   author: Yin Cui, Feng Zhou, Jiang Wang, Xiao Liu, Yuanqing Lin, Serge Belongie
@@ -860,8 +928,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/04/cui2017cvpr.pdf
+  pub_type: conference
   ref: cui2017cvpr
   title: Kernel Pooling for Convolutional Neural Networks
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, '
   year: '2017'
 - address: Honolulu, HI
   author: "Tsung-Yi Lin, Piotr Doll\xE1r, Ross Girshick, Kaiming He, Bharath Hariharan,\
@@ -873,8 +943,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2016/12/fpn.pdf
+  pub_type: conference
   ref: Lin2017
   title: Feature Pyramid Networks for Object Detection
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, '
   year: '2017'
 - address: Honolulu, HI
   author: Xun Huang, Yixuan Li, Omid Poursaeed, John Hopcroft, Serge Belongie
@@ -885,22 +957,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/04/1612.04357-2.pdf
+  pub_type: conference
   ref: huang2017sgan
   title: Stacked Generative Adversarial Networks
-  year: '2017'
-- address: Honolulu, HI
-  author: Subarna Tripathi, Gokce Dane, Byeongkeun Kang, Vasudev Bhaskaran, Truong
-    Nguyen
-  booktitle: Computer Vision and Pattern Recognition Workshop (CVPRW)
-  date: '2017-07-21'
-  journal: Computer Vision and Pattern Recognition Workshop
-  keywords: Low-Complexity Object Detection for Embedded Systems, Embedded Vision
-  link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2017/07/LCDet_CVPRW.pdf
-  ref: Tripathi2017b
-  title: 'LCDet: Low-Complexity Fully-Convolutional Neural Networks for Object Detection
-    in Embedded Systems'
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, '
   year: '2017'
 - author: Longqi Yang, Cheng-Kang Hsieh, Hongjian Yang, John P. Pollak, Nicola Dell,
     Serge Belongie, Curtis Cole, Deborah Estrin
@@ -911,19 +971,11 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/07/a7-yang.pdf
   number: '1'
+  pub_type: article
   ref: Yang2017
   title: 'Yum-Me: A Personalized Nutrient-Based Meal Recommender System'
+  venue: 'ACM Transactions on Information Systems (TOIS), 36 (1), '
   volume: '36'
-  year: '2017'
-- author: Zachary C. Lipton, Subarna Tripathi
-  date: '2017-04-26'
-  journal: ICLR workshop
-  keywords: Generative Adversarial Networks, generative-models, Precise-Recovery-of-Latent-Vectors-from-Generative-Adversarial-Networks
-  link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2017/03/recovering-latent-vectors.pdf
-  ref: Lipton2017
-  title: Precise Recovery of Latent Vectors from Generative Adversarial Networks
   year: '2017'
 - author: Subarna Tripathi, Maxwell Collins, Matthew Brown, Serge Belongie
   date: '2017-04-04'
@@ -932,8 +984,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/05/pose2instance-arxiv.pdf
+  pub_type: article
   ref: Tripathi2017
   title: 'Pose2Instance: Harnessing Keypoints for Person Instance Segmentation'
+  venue: 'arXiv preprint arXiv:1704.01152, '
   year: '2017'
 - address: Perth
   author: Cheng-Kang Hsieh, Longqi Yang, Yin Cui, Tsung-Yi Lin, Serge Belongie, Deborah
@@ -944,19 +998,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/03/WWW-fp0554-hsiehA.pdf
+  pub_type: conference
   ref: Hsieh2017
   title: Collaborative Metric Learning
-  year: '2017'
-- author: Subarna Tripathi, Brian Guenter
-  date: '2017-03-01'
-  journal: WACV
-  keywords: Eye-tracking, virtual Reality, calibration-free eye tracking
-  link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2016/12/statistical-approach-continuous.pdf
-  ref: Tripathi2016b
-  title: A Statistical Approach to Continuous Self-Calibrating Eye Gaze Tracking for
-    Head-Mounted Virtual Reality Systems
+  venue: 'International Conference on World Wide Web (WWW), Perth, '
   year: '2017'
 - address: Barcelona
   author: Andreas Veit, Michael Wilber, Serge Belongie
@@ -966,21 +1011,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/04/ResNet_Ensemble_NIPS.pdf
+  pub_type: conference
   ref: Veit2016
   title: Residual Networks Behave Like Ensembles of Relatively Shallow Networks
-  year: '2016'
-- address: Amsterdam
-  author: "Pedro O Pinheiro, Tsung-Yi Lin, Ronan Collobert, Piotr Doll\xE1r"
-  booktitle: European Conference on Computer Vision (ECCV)
-  date: '2016-10-08'
-  journal: ECCV
-  keywords: segmentation, Object Detection, MS CoCo
-  link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2016/12/sharpmask.pdf
-  note: ', (spotlight)'
-  ref: Pinheiro2016
-  title: Learning to Refine Object Segments
+  venue: 'Neural Information Processing Systems (NIPS), Barcelona, '
   year: '2016'
 - address: York, UK
   author: Subarna Tripathi, Zachary C. Lipton, Serge Belongie, Truong Nguyen
@@ -990,9 +1024,11 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2016/07/video_object_detection_BMVC.pdf
+  pub_type: conference
   ref: Tripathi2016_BMVC
   title: 'Context Matters: Refining Object Detection in Video with Recurrent Neural
     Networks'
+  venue: 'British Machine Vision Conference (BMVC), York, UK, '
   year: '2016'
 - address: York, UK
   author: Mohammad Moghimi, Mohammad Saberian, Jian Yang, Li-Jia Li, Nuno Vasconcelos,  Serge
@@ -1004,8 +1040,10 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2016/08/boosted-convolutional-neural-1.pdf
+  pub_type: conference
   ref: Moghimi2016
   title: Boosted Convolutional Neural Networks
+  venue: 'British Machine Vision Conference (BMVC), York, UK, '
   year: '2016'
 - address: York, UK
   author: Hani Altwaijry, Andreas Veit, Serge Belongie
@@ -1015,31 +1053,10 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2016/08/learning-detect-match.pdf
+  pub_type: conference
   ref: Altwaijry2016b
   title: Learning to Detect and Match Keypoints with Deep Architectures
-  year: '2016'
-- address: York, UK
-  author: "Sergey Zagoruyko, Adam Lerer, Tsung-Yi Lin, Pedro O Pinheiro, Sam Gross,\
-    \  Soumith Chintala, Piotr Doll\xE1r"
-  booktitle: British Machine Vision Conference (BMVC)
-  date: '2016-09-16'
-  keywords: MS CoCo, Object Detection
-  link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2016/12/mpn.pdf
-  ref: Zagoruyko2016
-  title: A MultiPath Network for Object Detection
-  year: '2016'
-- author: Sam Hoffman, Dilip Thiagarajan
-  date: '2016-09-15'
-  institution: Cornell University
-  keywords: Assistive Tech, Object Detection
-  link:
-    display: PDF
-    url: http://vision.cornell.edu/se3/wp-content/uploads/2016/09/Report.pdf
-  ref: Hoffman2016
-  title: Revisiting Grocery Recognition using TensorFlow
-  type: CS Department Summer Internship Continutity report
+  venue: 'British Machine Vision Conference (BMVC), York, UK, '
   year: '2016'
 - author: Tsung-Yi Lin, Serge Belongie, James Hays
   booktitle: Large-Scale Visual Geo-Localization
@@ -1052,9 +1069,11 @@
     display: PDF
     url: http://link.springer.com/chapter/10.1007%2F978-3-319-25781-5_4
   pages: 59-76
+  pub_type: incollection
   publisher: Springer
   ref: Lin2016
   title: Cross-View Image Geo-localization
+  venue: 'Large-Scale Visual Geo-Localization, pp. 59-76, Springer, '
   year: '2016'
 - address: Las Vegas, NV
   author: Hani Altwaijry, Eduard Trulls, James Hays, Pascal Fua, Serge Belongie
@@ -1064,8 +1083,10 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2016/04/1204.pdf
+  pub_type: conference
   ref: Altwaijry2016
   title: Learning to Match Aerial Images with Deep Attentive Architectures
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, '
   year: '2016'
 - address: Las Vegas, NV
   author: Yin Cui, Feng Zhou, Yuanqing Lin, Serge Belongie
@@ -1076,19 +1097,11 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2016/04/1950.pdf
+  pub_type: conference
   ref: Cui2016
   title: Fine-grained Categorization and Dataset Bootstrapping using Deep Metric Learning
     with Humans in the Loop
-  year: '2016'
-- author: Philip Su
-  booktitle: Cornell University CS Department MEng Report
-  date: '2016-05-27'
-  keywords: Assistive Tech, COCO-Text, MS CoCo
-  link:
-    display: PDF
-    url: http://vision.cornell.edu/se3/wp-content/uploads/2016/05/MEng.ProjectFinalReport.pdf
-  ref: Su2016
-  title: COCO-Text Explorer
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, '
   year: '2016'
 - &id001
   address: San Juan, PR
@@ -1096,8 +1109,13 @@
   booktitle: International Conference on Learning Representations (ICLR)
   date: '2016-05-02'
   keywords: Concept embeddings, Crowdsourcing, Triplets and perception
+  link:
+    display: PDF
+    url: ''
+  pub_type: conference
   ref: Karaletsos2016
   title: Bayesian representation learning with oracle constraints
+  venue: 'International Conference on Learning Representations (ICLR), San Juan, PR, '
   year: '2016'
 - *id001
 - author: Subarna Tripathi, Serge Belongie, Youngbae Hwang, Truong Nguyen
@@ -1108,9 +1126,11 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2016/01/OVERLAP_WACV_275.pdf
+  pub_type: conference
   ref: Tripathi2016
   title: Detecting Temporally Consistent Objects in Videos through Object Class Label
     Propagation
+  venue: 'Winter Conference on Applications of Computer Vision (WACV), '
   year: '2016'
 - author: Michael Wilber, Vitaly Shmatikov, Serge Belongie
   booktitle: Winter Conference on Applications of Computer Vision (WACV)
@@ -1119,8 +1139,10 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/03/sp-project.pdf
+  pub_type: conference
   ref: Wilber2016
   title: Can we still avoid automatic face detection?
+  venue: 'Winter Conference on Applications of Computer Vision (WACV), '
   year: '2016'
 - author: Andreas Veit, Tomas Matera, Lukas Neumann, Jiri Matas, Serge Belongie
   booktitle: arXiv preprint arXiv:1601.07140
@@ -1129,20 +1151,12 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf
+  pub_type: conference
   ref: veit2016cocotext
   title: 'COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural
     Images'
+  venue: 'arXiv preprint arXiv:1601.07140, '
   year: '2016'
-- author: Pragya Verma
-  booktitle: Cornell University CS Department MEng Report
-  date: '2015-12-16'
-  keywords: Assistive Tech
-  link:
-    display: PDF
-    url: http://vision.cornell.edu/se3/wp-content/uploads/2015/12/Pragya-Verma-COCO-Reader-Project-Report.pdf
-  ref: Verma2015
-  title: 'COCO-Reader: User Study and Market Evaluation'
-  year: '2015'
 - address: Santiago, Chile
   author: Andreas Veit\*, Balazs Kovacs\*, Sean Bell, Julian McAuley, Kavita Bala,
     Serge Belongie
@@ -1153,8 +1167,10 @@
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/10/1509.07473v1.pdf
   note: ', (*Equal Contribution)'
+  pub_type: conference
   ref: Veit2015
   title: Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences
+  venue: 'International Conference on Computer Vision (ICCV), Santiago, Chile, '
   year: '2015'
 - author: Michael Wilber, Iljung S. Kwak, David Kriegman, Serge Belongie
   booktitle: International Conference on Computer Vision (ICCV)
@@ -1163,8 +1179,10 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/09/main.pdf
+  pub_type: conference
   ref: concept-embeddings
   title: Learning Concept Embeddings with Combined Human-Machine Expertise
+  venue: 'International Conference on Computer Vision (ICCV), '
   year: '2015'
 - author: Serge Belongie, Pietro Perona
   date: '2015-12-10'
@@ -1173,8 +1191,10 @@
   link:
     display: PDF
     url: http://www.sciencedirect.com/science/article/pii/S0167865515004092
+  pub_type: article
   ref: Belongie2015
   title: Visipedia circa 2015
+  venue: 'Pattern Recognition Letters, '
   year: '2015'
 - address: San Diego, CA
   author: Genevieve Patterson, Grant Van Horn, Serge Belongie, Pietro Perona,  James
@@ -1185,8 +1205,10 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/09/patterson_hcomp2015.pdf
+  pub_type: conference
   ref: Patterson2015
   title: 'Tropel: Crowdsourcing Detectors with Minimal Training'
+  venue: 'Human Computation (HCOMP), San Diego, CA, '
   year: '2015'
 - address: San Diego, CA
   author: Andreas Veit, Michael Wilber, Rajan Vaish, Serge Belongie, James Davis,
@@ -1198,8 +1220,11 @@
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/10/1509.07543v1.pdf
   note: ', (Work in Progress)'
+  pub_type: conference
   ref: Veit2015b
   title: On Optimizing Human-Machine Task Assignments
+  venue: 'AAAI Conference on Human Computation and Crowdsourcing (HCOMP), San Diego,
+    CA, '
   year: '2015'
 - author: Subarna Tripathi, Serge Belongie, Youngbae Hwang, Truong Nguyen
   booktitle: ISOCC
@@ -1208,8 +1233,10 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2016/07/ISOCC_video_inference.pdf
+  pub_type: conference
   ref: Tripathi2015
   title: 'Semantic Video Segmentation : Exploring Inference Efficiency'
+  venue: 'ISOCC, '
   year: '2015'
 - address: Melbourne
   author: Longqi Yang, Yin Cui, Fan Zhang, John P. Pollak, Serge Belongie, Deborah
@@ -1221,8 +1248,11 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/09/PlateClick.pdf
+  pub_type: conference
   ref: YangCZPBE15
   title: 'PlateClick: Bootstrapping Food Preferences Through an Adaptive Visual Interface'
+  venue: 'International Conference on Information and Knowledge Management (CIKM)
+    , Melbourne, '
   year: '2015'
 - author: Brian A. Levine, Jeremy Feinstein, Queenie V. Neri, Dan Goldschlag, Zev
     Rosenwaks, Serge Belongie, Gianpiero D. Palermo
@@ -1232,20 +1262,12 @@
   link:
     display: PDF
     url: http://www.fertstert.org/article/S0015-0282(15)01870-1/abstract
+  pub_type: article
   ref: Levine2015
   title: 'Three-dimensional sperm surface reconstruction: a novel approach to assessing
     sperm morphology'
+  venue: 'Fertility and Sterility, in press, '
   volume: in press
-  year: '2015'
-- author: Xiaoyan Wu, Jiaqi Su
-  booktitle: Cornell University CS Department Summer Internship Continuity Report
-  date: '2015-08-31'
-  keywords: Assistive Tech, MS CoCo
-  link:
-    display: PDF
-    url: http://vision.cornell.edu/se3/wp-content/uploads/2015/08/COCO-Reader-summer2015.pdf
-  ref: cocoreader2015
-  title: 'COCO-Reader: Image Reader for the Blind'
   year: '2015'
 - address: Boston, MA
   author: Tsung-Yi Lin, Yin Cui, Serge Belongie, James Hays
@@ -1255,9 +1277,11 @@
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/04/geocvpr15.pdf, /se3/wp-content/uploads/2015/06/Learning-Deep-Representations-CVPR15.pptx
   note: ', (Oral)'
+  pub_type: conference
   publisher: Computer Vision and Pattern Recognition (CVPR)
   ref: Lin2015
   title: Learning Deep Representations for Ground-to-Aerial Geolocalization
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Boston, MA, '
   year: '2015'
 - address: Boston, MA
   author: Van Horn, Grant, Branson, Steve, Farrell, Ryan, Haber, Scott, Barry, Jessie,
@@ -1269,20 +1293,11 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/05/Horn_Building_a_Bird_2015_CVPR_paper.pdf
+  pub_type: conference
   ref: Horn2015
   title: 'Building a Bird Recognition App and Large Scale Dataset With Citizen Scientists:
     The Fine Print in Fine-Grained Dataset Collection'
-  year: '2015'
-- author: "Xinlei Chen, Hao Fang, Tsung-Yi Lin, Ramakrishna Vedantam, Saurabh Gupta,\
-    \ Piotr Doll\xE1r, C. Lawrence Zitnick"
-  date: '2015-04-03'
-  journal: arXiv preprint arXiv:1504.00325
-  keywords: MS CoCo
-  link:
-    display: PDF
-    url: http://vision.cornell.edu/se3/wp-content/uploads/2015/04/1504.00325v2.pdf
-  ref: capeval2015
-  title: 'Microsoft COCO Captions: Data Collection and Evaluation Server'
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Boston, MA, '
   year: '2015'
 - author: Chow, Chi Wai, Belongie, Serge, Kleissl, Jan
   date: '2015-04-03'
@@ -1292,8 +1307,10 @@
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/04/cloud_motion.pdf
   pages: "645\u2013655"
+  pub_type: article
   ref: Chow2015
   title: Cloud motion and stability estimation for intra-hour solar forecasting
+  venue: 'Solar Energy, 115, '
   volume: '115'
   year: '2015'
 - address: Waikoloa Beach, HI
@@ -1304,8 +1321,11 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2014/11/wacv2015_localized_final.pdf
+  pub_type: conference
   ref: WahMB2015
   title: Learning Localized Perceptual Similarity Metrics for Interactive Categorization
+  venue: 'IEEE Winter Conference on Applications of Computer Vision (WACV), Waikoloa
+    Beach, HI, '
   year: '2015'
 - address: Sydney, Australia
   author: Mohammad Moghimi, Jacqueline Kerr, Eileen Johnson, Suneeta Godbole, Serge
@@ -1316,8 +1336,10 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/01/mmm15_dp1.pdf
+  pub_type: conference
   ref: Moghimi2015
   title: 'Discriminative Regions: A Substrate for Analyzing Life-logging Image Sequences'
+  venue: 'MultiMedia Modelling (MMM), Sydney, Australia, '
   year: '2015'
 - author: Jeremy Feinstein, Brian A. Levine, Serge Belongie
   date: '2014-12-18'
@@ -1326,21 +1348,11 @@
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2014/12/feinstein_MEng_report.pdf
   note: ', (MEng Project Report)'
+  pub_type: mastersthesis
   ref: FeinsteinLB2014
   school: Cornell University
   title: Three-Dimensional Spermatozoa Surface Reconstruction
-  year: '2014'
-- author: Mevlana Gemici, Ashutosh Saxena
-  booktitle: International Conference on Intelligent Robots and Systems (IROS)
-  date: '2014-09-15'
-  keywords: robotics, deformable object, food manipulation, haptics
-  link:
-    display: PDF
-    url: http://vision.cornell.edu/se3/wp-content/uploads/2014/09/gemici_saxena_learninghapticrepresentation_fooditems_20142.pdf
-  pages: pr.cs.cornell.edu/hapticmanipulation/
-  ref: Gemici2014
-  title: Learning Haptic Representation for Manipulating Deformable Food Objects (Best
-    Paper Award in Cognitive Robotics)
+  venue: 'Cornell University, '
   year: '2014'
 - address: Nottingham
   author: Steve Branson, Grant Van Horn, Serge Belongie, Pietro Perona
@@ -1351,8 +1363,10 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/02/BMVC14.pdf
+  pub_type: conference
   ref: BransonVBP14
   title: Bird Species Categorization Using Pose Normalized Deep Convolutional Nets
+  venue: 'British Machine Vision Conference (BMVC), Nottingham, '
   year: '2014'
 - author: Mohammad Moghimi, Wanmin Wu, Jacqueline Chen, Suneeta Godbole, Simon Marshall,
     Jacqueline Kerr, Serge Belongie
@@ -1363,8 +1377,10 @@
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2014/11/icip14_sensecam1.pdf
   organization: IEEE
+  pub_type: inproceedings
   ref: moghimi14
   title: Analyzing Sedentary Behavior in Life-logging Images
+  venue: 'IEEE International Conference on Image Processing (ICIP) 2014, '
   year: '2014'
 - author: "Piotr Doll\xE1r, Ron Appel, Serge Belongie, Pietro Perona"
   date: '2014-01-01'
@@ -1373,8 +1389,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/DollarPAMI14pyramids_0.pdf
+  pub_type: article
   ref: '487'
   title: Fast Feature Pyramids for Object Detection
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence, '
   year: '2014'
 - address: Steamboat Springs, Colorado
   author: Hani Altwaijry, Mohammad Moghimi, Serge Belongie
@@ -1384,8 +1402,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/recognizing_locations_altwaijry_web.pdf
+  pub_type: inproceedings
   ref: '488'
   title: 'Recognizing Locations with Google Glass: A Case Study'
+  venue: 'IEEE Winter Conference on Applications of Computer Vision (WACV), Steamboat
+    Springs, Colorado, '
   year: '2014'
 - address: Steamboat Springs, CO
   author: Phuc Xuan Nguyen, Kai Wang, Serge Belongie
@@ -1395,8 +1416,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/VideoTextWACV.pdf
+  pub_type: inproceedings
   ref: '489'
   title: 'Video Text Detection and Recognition: Dataset and Benchmark'
+  venue: 'Winter Conference on Applications of Computer Vision (WACV), Steamboat Springs,
+    CO, '
   year: '2014'
 - author: David Lluncor, Serge Belongie, Peter Rullan, Vera Morhenn
   date: '2014-01-01'
@@ -1407,8 +1431,10 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/24354417
   number: '1'
   pages: 92-7
+  pub_type: article
   ref: '490'
   title: Regression and classification methods for nasolabial folds
+  venue: 'Journal of Dermatology, 41 (1), '
   volume: '41'
   year: '2014'
 - address: Steamboat Springs, CO
@@ -1419,8 +1445,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/ImprovingStreamGBH.pdf
+  pub_type: inproceedings
   ref: '491'
   title: Improving Streaming Video Segmentation with Early and Mid-Level Visual Processing
+  venue: 'Winter Conference on Applications of Computer Vision (WACV), Steamboat Springs,
+    CO, '
   year: '2014'
 - author: Christopher Barngrover, Ryan Kastner, Serge Belongie
   date: '2014-01-01'
@@ -1429,9 +1458,11 @@
   link:
     display: PDF
     url: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6716087&amp;tag=1
+  pub_type: article
   ref: '492'
   title: Semisynthetic Versus Real-World Sonar Training Data for the Classification
     of Mine-Like Objects
+  venue: 'IEEE Journal of Oceanic Engineering, '
   year: '2014'
 - author: Steve Branson, Grant Van Horn, Catherine Wah, Pietro Perona, Serge Belongie
   date: '2014-01-01'
@@ -1441,9 +1472,11 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/02/ijcv2014.pdf
+  pub_type: article
   ref: '493'
   title: "The Ignorant Led by the Blind: A Hybrid Human\u2013Machine Vision System\
     \ for Fine-Grained Categorization"
+  venue: 'International Journal of Computer Vision (IJCV), '
   year: '2014'
 - address: Columbus, OH
   author: Catherine Wah, Grant Van Horn, Steve Branson, Subhransu Maji, Pietro Perona,
@@ -1455,19 +1488,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/cvpr2014_similarity.pdf
+  pub_type: inproceedings
   ref: '494'
   title: Similarity Comparisons for Interactive Fine-Grained Categorization
-  year: '2014'
-- address: Beijing
-  author: Oscar Beijbom, Mohammad Saberian, Nuno Vasconcelos, David Kriegman
-  booktitle: International Conference on Machine Learning (ICML)
-  date: '2014-01-01'
-  keywords: Coral Reef Assessment
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/guess_averse.pdf, /se3/wp-content/uploads/2014/09/guess_averse_supplementary.pdf
-  ref: '498'
-  title: Guess Averse Loss Functions For Cost-Sensitive Multiclass Boosting
+  venue: 'Computer Vision and Pattern Recognition (CVPR), Columbus, OH, '
   year: '2014'
 - address: Chengdu
   author: Chong Cao, Sam Kwak, Serge Belongie, David Kriegman, Haizhou Ai
@@ -1477,8 +1501,10 @@
   link:
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2015/02/ICME2014-Paper-317.pdf
+  pub_type: inproceedings
   ref: '500'
   title: Adaptive Ranking of Facial Attractiveness
+  venue: 'IEEE International Conference on Multimedia &amp; Expo (ICME), Chengdu, '
   year: '2014'
 - address: Columbus, OH
   author: Mohammad Moghimi, Pablo Azagra, Luis Montesano, Ana C. Murillo, Serge Belongie
@@ -1488,8 +1514,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/experiments-rgb-d.pdf
+  pub_type: inproceedings
   ref: '501'
   title: Experiments on an RGB-D Wearable Vision System for Egocentric Activity Recognition
+  venue: 'CVPR Workshop on Egocentric (First-person) Vision, Columbus, OH, '
   year: '2014'
 - address: "Z\xFCrich"
   author: "Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona,\
@@ -1501,8 +1529,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/coco_eccv.pdf, http://mscoco.org
   note: ', (Oral)'
+  pub_type: inproceedings
   ref: '502'
   title: 'Microsoft COCO: Common Objects in Context'
+  venue: "European Conference on Computer Vision (ECCV), Z\xFCrich, "
   year: '2014'
 - address: Pittsburgh
   author: Michael Wilber, Sam Kwak, Serge Belongie
@@ -1512,8 +1542,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2015/01/hcomp-conference-paper.pdf, http://arxiv.org/abs/1404.3291
+  pub_type: inproceedings
   ref: '503'
   title: Cost-Effective HITs for Relative Similarity Comparisons
+  venue: 'Human Computation and Crowdsourcing (HCOMP), Pittsburgh, '
   year: '2014'
 - address: Columbus, OH
   author: Tomas Matera, Jan Jakes, Munan Cheng, Serge Belongie
@@ -1523,20 +1555,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/materauser2014.pdf
+  pub_type: inproceedings
   ref: '504'
   title: A User Friendly Crowdsourcing Task Manager
+  venue: 'Workshop on Computer Vision and Human Computation, Columbus, OH, '
   year: '2014'
-- author: Amit Sharma, Mevlana Gemici, Dan Cosley
-  booktitle: AAAI, International Conference on Web and Social Media (ICWSM)
-  date: '2013-04-17'
-  journal: The International AAAI Conference on Web and Social Media (ICWSM)
-  keywords: recommendation, ego-centric
-  link:
-    display: PDF
-    url: http://vision.cornell.edu/se3/wp-content/uploads/2014/09/1304.4837v1-12.pdf
-  ref: mevlana2013
-  title: Friends, Strangers, and the Value of Ego Networks for Recommendation
-  year: '2013'
 - address: Clearwater Beach, Florida
   author: Hani Altwaijry, Serge Belongie
   booktitle: Workshop on the Applications of Computer Vision (WACV)
@@ -1545,8 +1568,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/043-wacv.pdf
+  pub_type: inproceedings
   ref: '455'
   title: Relative Ranking of Facial Attractiveness
+  venue: 'Workshop on the Applications of Computer Vision (WACV), Clearwater Beach,
+    Florida, '
   year: '2013'
 - address: Portland, OR
   author: Steve Branson, Oscar Beijbom, Serge Belongie
@@ -1556,8 +1582,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/cvpr2013_efficient_0.pdf, /se3/wp-content/uploads/2014/09/supplementary_0.pdf
+  pub_type: inproceedings
   ref: '457'
   title: Efficient Large-Scale Structured Learning
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Portland,
+    OR, '
   year: '2013'
 - address: Portland, OR
   author: Tsung-Yi Lin, Serge Belongie, James Hays
@@ -1567,8 +1596,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/geolocalization_cvpr13_0421.pdf
+  pub_type: inproceedings
   ref: '458'
   title: Cross-view Image Geolocalization
+  venue: 'CVPR, Portland, OR, '
   year: '2013'
 - address: Portland, OR
   author: Catherine Wah, Serge Belongie
@@ -1579,8 +1610,11 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2017/04/Wah_Attribute-Based_Detection_of_2013_CVPR_paper.pdf
+  pub_type: inproceedings
   ref: '459'
   title: Attribute-Based Detection of Unfamiliar Classes with Humans in the Loop
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Portland,
+    OR, '
   year: '2013'
 - address: Crete
   author: Arturo Flores, Eric Christiansen, David Kriegman, Serge Belongie
@@ -1590,16 +1624,23 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/camera_distance_from_face_images.pdf
+  pub_type: inproceedings
   ref: '465'
   title: Camera distance from face images
+  venue: 'International Symposium on Visual Computing (ISVC), Crete, '
   year: '2013'
 - address: Crete
   author: Eric Christiansen, Iljung Sam Kwak, Serge Belongie, David Kriegman
   booktitle: International Symposium on Visual Computing (ISVC)
   date: '2013-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
+  pub_type: inproceedings
   ref: '466'
   title: Face box shape and verification
+  venue: 'International Symposium on Visual Computing (ISVC), Crete, '
   year: '2013'
 - address: Bristol
   author: Iljung Sam Kwak, Ana C. Murillo, Peter Belhumeur, Serge Belongie, David
@@ -1610,8 +1651,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/utribes_bmvc13_final.pdf
+  pub_type: inproceedings
   ref: '467'
   title: 'From Bikers to Surfers: Visual Recognition of Urban Tribes'
+  venue: 'British Machine Vision Conference (BMVC), Bristol, '
   year: '2013'
 - address: Bristol
   author: Eric Christiansen, Vincent Rabaud, Andrew Ziegler, David Kriegman, Serge
@@ -1622,8 +1665,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/bmvc2013.pdf
+  pub_type: inproceedings
   ref: '468'
   title: Match-time covariance for descriptors
+  venue: 'British Machine Vision Conference (BMVC), Bristol, '
   year: '2013'
 - address: Bristol
   author: Hani Altwaijry, Serge Belongie
@@ -1633,20 +1678,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/bmvc2013_ultrawide_matching.pdf
+  pub_type: inproceedings
   ref: '469'
   title: Ultra-wide Baseline Aerial Imagery Matching in Urban Environments
-  year: '2013'
-- address: Portland, OR
-  author: Wei Di, Catherine Wah, Anurag Bhardwaj, Robinson Piramuthu, Neel Sundaresan
-  booktitle: IEEE International Workshop on Mobile Vision
-  date: '2013-01-01'
-  keywords: style-finder-fine-grained-clothing-style-recognition-and-retrieval, Visipedia,
-    fine-grained visual recognition
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/iwmv2013_style_detection.pdf
-  ref: '470'
-  title: 'Style Finder: Fine-Grained Clothing Style Recognition and Retrieval'
+  venue: 'British Machine Vision Conference (BMVC), Bristol, '
   year: '2013'
 - address: Lake Tahoe
   author: Genevieve Patterson, Grant Van Horn, Serge Belongie, Pietro Perona, James
@@ -1658,20 +1693,12 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/ActivePaper3.pdf
+  pub_type: inproceedings
   ref: '486'
   title: 'Bootstrapping Fine-Grained Classifiers: Active Learning with a Crowd in
     the Loop'
-  year: '2013'
-- author: Tali Treibitz, Benjamin P. Neal, David I. Kline, Oscar Beijbom, Paul L.
-    D. Roberts, B. Greg Mitchell, David Kriegman
-  booktitle: IEEE Oceans
-  date: '2013-01-01'
-  keywords: Coral Reef Assessment
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/130502-025.pdf, http://www.mtsjournal.org/Papers/PDFs/130502-025.pdf
-  ref: '499'
-  title: Wide Field-of-View Daytime Fluorescence Imaging of Coral Reefs
+  venue: 'NIPS Workshop on Crowdsourcing: Theory, Algorithms and Applications, Lake
+    Tahoe, '
   year: '2013'
 - address: Breckenridge, CO
   author: Andrew Ziegler, Serge Belongie
@@ -1681,20 +1708,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/0115.pdf
+  pub_type: inproceedings
   ref: '436'
   title: Non-Rigid Surface Detection for Gestural Interaction with Applicable Surfaces
-  year: '2012'
-- address: Providence, Rhode Island
-  author: Oscar Beijbom, Peter J. Edmunds, David I. Kline, B. Greg Mitchell, David
-    Kriegman
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2012-01-01'
-  keywords: Coral Reef Assessment
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/automated_coral_annotation.pdf
-  ref: '440'
-  title: Automated Annotation of Coral Reef Survey Images
+  venue: 'Applications of Computer Vision (WACV), Breckenridge, CO, '
   year: '2012'
 - address: Providence, RI
   author: Ana C. Murillo, Iljung Sam Kwak, Lubomir Bourdev, David Kriegman, Serge
@@ -1705,23 +1722,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/urbantribes.pdf
+  pub_type: inproceedings
   ref: '442'
   title: 'Urban Tribes: Analyzing Group Photos from a Social Perspective'
-  year: '2012'
-- address: Bellevue, WA
-  author: Kai Wang, Eric Kim, Nicholas Carlini, Ivan Motyashov, Daniel Nguyen, David
-    Wagner
-  booktitle: Electronic Voting Technology Workshop/ Workshop on Trustworthy Elections
-    (EVT/WOTE)
-  date: '2012-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/wkcmnw_evt2012.pdf
-  organization: USENIX/ACCURATE/IAVoSS
-  publisher: USENIX/ACCURATE/IAVoSS
-  ref: '444'
-  title: Operator-Assisted Tabulation of Optical Scan Ballots
+  venue: 'CVPR Workshop on Socially Intelligent Surveillance and Monitoring (SISM),
+    Providence, RI, '
   year: '2012'
 - address: Lake Tahoe, NV
   author: Andrew Ziegler, Eric Christiansen, David Kriegman, Serge Belongie
@@ -1732,29 +1737,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/NIPS2012_0012.pdf
   pages: 1-9
+  pub_type: inproceedings
   ref: '445'
   title: Locally Uniform Comparison Image Descriptor
-  year: '2012'
-- author: Oscar Beijbom
-  date: '2012-01-01'
-  institution: University of California, San Diego
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/domain-transfer-survey.pdf
-  ref: '448'
-  title: Domain Adaptation for Computer Vision Applications
-  year: '2012'
-- author: Ian Lenz, Mevlana Gemici,, Ashutosh Saxena
-  booktitle: International Conference on Intelligent Robots and Systems (IROS), 2012
-  date: '2012-00-00'
-  keywords: robotics
-  link:
-    display: PDF
-    url: http://vision.cornell.edu/se3/wp-content/uploads/2014/09/lowpower_obstacleavoidance_mav.pdf
-  ref: Lenz2012
-  title: Low-Power Parallel Algorithms for Single Image Based Obstacle Avoidance in
-    Aerial Robots
+  venue: 'Neural Information Processing Systems (NIPS), Lake Tahoe, NV, '
   year: '2012'
 - author: Boris Babenko, Ming-Hsuan Yang, Serge Belongie
   date: '2011-01-01'
@@ -1764,8 +1750,10 @@
     display: PDF
     url: http://vision.cornell.edu/se3/wp-content/uploads/2014/09/0fcfd5086e4e9dd86c000000.pdf,
       http://vision.ucsd.edu/~bbabenko/project_miltrack.html
+  pub_type: article
   ref: '393'
   title: Visual Tracking with Online Multiple Instance Learning
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), '
   year: '2011'
 - address: Colorado Springs
   author: Carolina Galleguillos, Brian McFee, Serge Belongie, Gert Lanckriet
@@ -1775,8 +1763,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/0892-1.pdf
+  pub_type: inproceedings
   ref: '403'
   title: From Region Similarity to Category Discovery
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Colorado
+    Springs, '
   year: '2011'
 - address: Tokyo
   author: Tsubasa Yoshida, Kris Kitani, Serge Belongie, Kevin Schlei, Hideki Koike
@@ -1786,8 +1777,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/ah2011_submission_19-5.pdf
+  pub_type: inproceedings
   ref: '405'
   title: 'EdgeSonic: Image Feature Sonification for the Visually Impaired'
+  venue: 'International Conference on the Augmented Human, Tokyo, '
   year: '2011'
 - address: Bellevue, WA
   author: Boris Babenko, Nakul Varma, Piotr Dollar, Serge Belongie
@@ -1797,8 +1790,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/mbag_full_final.pdf
+  pub_type: inproceedings
   ref: '411'
   title: Multiple Instance Learning with Manifold Bags
+  venue: 'International Conference on Machine Learning (ICML), Bellevue, WA, '
   year: '2011'
 - address: Bellevue, WA
   author: Omer Tamuz, Ce Liu, Serge Belongie, Ohad Shamir, Adam Kalai
@@ -1808,8 +1803,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/2011_ICML_TamLiuBelShamKal.pdf
+  pub_type: inproceedings
   ref: '412'
   title: Adaptively Learning the Crowd Kernel
+  venue: 'International Conference on Machine Learning (ICML), Bellevue, WA, '
   year: '2011'
 - address: Barcelona, Spain
   author: Kai Wang, Boris Babenko, Serge Belongie
@@ -1819,8 +1816,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/wang_iccv2011.pdf
+  pub_type: inproceedings
   ref: '417'
   title: End-to-End Scene Text Recognition
+  venue: 'IEEE International Conference on Computer Vision (ICCV), Barcelona, Spain, '
   year: '2011'
 - address: Barcelona
   author: Florian Schroff, Tali Treibitz, David Kriegman, Serge Belongie
@@ -1830,9 +1829,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/multipieNN_final_01.pdf
+  pub_type: inproceedings
   ref: '418'
   title: "Pose, Illumination and Expression Invariant Pairwise Face-Similarity Measure\
     \ via Doppelg\xE4nger List Comparison"
+  venue: 'IEEE International Conference on Computer Vision (ICCV), Barcelona, '
   year: '2011'
 - address: Barcelona
   author: Steve Branson, Pietro Perona, Serge Belongie
@@ -1842,9 +1843,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/iccv2011_interactive_parts_2.pdf
+  pub_type: inproceedings
   ref: '419'
   title: 'Strong Supervision From Weak Annotation: Interactive Training of Deformable
     Part Models'
+  venue: 'IEEE International Conference on Computer Vision (ICCV), Barcelona, '
   year: '2011'
 - address: Barcelona
   author: Catherine Wah, Steve Branson, Pietro Perona, Serge Belongie
@@ -1855,8 +1858,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/iccv2011_20q_parts_final.pdf
+  pub_type: inproceedings
   ref: '420'
   title: Multiclass Recognition and Part Localization with Humans in the Loop
+  venue: 'IEEE International Conference on Computer Vision (ICCV), Barcelona, '
   year: '2011'
 - address: Washington, DC
   author: Prasanna Krishnasamy, Serge Belongie, David Kriegman
@@ -1866,8 +1871,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/fpwrinkled-ijcb.pdf
+  pub_type: inproceedings
   ref: '421'
   title: 'Wet Fingerprint Recognition: Challenges and Opportunities'
+  venue: 'International Joint Conference on Biometrics (IJCB), Washington, DC, '
   year: '2011'
 - address: Seville, Spain
   author: Christopher Barngrover, Serge Belongie, Ryan Kastner
@@ -1875,20 +1882,15 @@
     (CAIP)
   date: '2011-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
+  pub_type: inproceedings
   ref: '423'
   title: JBoost Optimization of Object Detectors for Autonomous Underwater Vehicle
     Navigation
-  year: '2011'
-- address: Washington, DC
-  author: Ohil K Manyam, Neeraj Kumar, Peter Belhumeur, David Kriegman
-  booktitle: International Joint Conference on Biometrics (IJCB)
-  date: '2011-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/PID1998017.pdf
-  ref: '432'
-  title: 'Two Faces are Better than One: Face Recognition in Group Photographs'
+  venue: 'International Conference on Computer Analysis of Images and Patterns (CAIP),
+    Seville, Spain, '
   year: '2011'
 - author: Carolina Galleguillos, Brian McFee, Serge Belongie, Gert R. G. Lanckriet
   booktitle: IEEE Conference in Computer Vision and Pattern Recognition (CVPR)
@@ -1897,8 +1899,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/1064.pdf
+  pub_type: inproceedings
   ref: '364'
   title: Multi-Class Object Localization by Combining Local Contextual Interactions
+  venue: 'IEEE Conference in Computer Vision and Pattern Recognition (CVPR), '
   year: '2010'
 - address: San Francisco, CA
   author: Arturo Flores, Serge Belongie
@@ -1908,8 +1912,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/IWMV_13.pdf
+  pub_type: inproceedings
   ref: '366'
   title: Removing pedestrians from Google Street View images
+  venue: 'IEEE International Workshop on Mobile Vision, San Francisco, CA, '
   year: '2010'
 - address: San Francisco, CA
   author: Tess Winlock, Eric Christiansen, Serge Belongie
@@ -1919,8 +1925,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/CVAVI_07.pdf
+  pub_type: inproceedings
   ref: '368'
   title: Toward real-time grocery detection for the visually impaired
+  venue: 'Computer Vision Applications for the Visually Impaired (CVAVI), San Francisco,
+    CA, '
   year: '2010'
 - author: Carolina Galleguillos, Serge Belongie
   date: '2010-01-01'
@@ -1930,8 +1939,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/cviu_context_review.pdf
   pages: 712-722
+  pub_type: article
   ref: '369'
   title: 'Context Based Object Categorization: A Critical Survey'
+  venue: 'Computer Vision and Image Understanding (CVIU), 114, '
   volume: '114'
   year: '2010'
 - address: Washington, DC
@@ -1943,8 +1954,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/wang_evt2010_0.pdf
+  pub_type: inproceedings
   ref: '370'
   title: 'OpenScan: A Fully Transparent Optical Scan Voting System'
+  venue: 'Electronic Voting Technology Workshop/ Workshop on Trustworthy Elections
+    (EVT/WOTE). USENIX/ACCURATE/IAVoSS, Washington, DC, '
   year: '2010'
 - address: Heraklion, Crete
   author: Kai Wang, Serge Belongie
@@ -1954,8 +1968,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/wang_eccv2010.pdf, http://vision.ucsd.edu/~kai/grocr/
+  pub_type: inproceedings
   ref: '371'
   title: Word Spotting in the Wild
+  venue: 'European Conference on Computer Vision (ECCV), Heraklion, Crete, '
   year: '2010'
 - address: Heraklion, Crete
   author: Steve Branson, Catherine Wah, Boris Babenko, Florian Schroff, Peter Welinder,
@@ -1967,28 +1983,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/Visipedia20q.pdf, http://www.vision.caltech.edu/visipedia
+  pub_type: inproceedings
   ref: '372'
   title: Visual Recognition with Humans in the Loop
-  year: '2010'
-- author: Carven von Bearensquash
-  booktitle: Secret Proceedings of Computer Vision and Pattern Recognition
-  date: '2010-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/gestalt.pdf
-  ref: '375'
-  title: Paper Gestalt
-  year: '2010'
-- author: Neel Joshi, W. Matusik, David Kriegman, E. H. Adelson
-  date: '2010-01-01'
-  journal: ACM Transactions on Graphics
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/personal_enhancement_tog.pdf
-  ref: '377'
-  title: Personal photo enhancement using example images
+  venue: 'European Conference on Computer Vision (ECCV), Heraklion, Crete, '
   year: '2010'
 - address: Aberystwyth, UK
   author: "Piotr Doll\xE1r, Serge Belongie, Pietro Perona"
@@ -1998,8 +1996,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/FPDW_0.pdf
+  pub_type: inproceedings
   ref: '379'
   title: The Fastest Pedestrian Detector In The West
+  venue: 'British Machine Vision Conference (BMVC), Aberystwyth, UK, '
   year: '2010'
 - address: Japan
   author: Tsubasa Yoshida, Kris Kitani, Serge Belongie, Kevin Schlei
@@ -2009,8 +2009,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/EdgeSonic.pdf
+  pub_type: inproceedings
   ref: '396'
   title: 'EdgeSonic: Sonification of Image Features for the Visually Impaired'
+  venue: 'Workshop on Interactive Systems and Software, Japan, '
   year: '2010'
 - author: Peter Welinder, Steve Branson, Serge Belongie, Pietro Perona
   booktitle: Neural Information Processing Systems Conference (NIPS)
@@ -2019,8 +2021,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/WelinderEtalNIPS10.pdf, http://vision.ucsd.edu/project/visipedia
+  pub_type: inproceedings
   ref: '398'
   title: The Multidimensional Wisdom of Crowds
+  venue: 'Neural Information Processing Systems Conference (NIPS), '
   year: '2010'
 - author: Peter Welinder, Steve Branson, Takeshi Mita, Catherine Wah, Florian Schroff,
     Serge Belongie, Pietro Perona
@@ -2031,8 +2035,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/WelinderEtal10_CUB-200.pdf, http://www.vision.caltech.edu/visipedia/CUB-200.html
   number: CNS-TR-201
+  pub_type: techreport
   ref: '399'
   title: Caltech-UCSD Birds 200
+  venue: 'Caltech (CNS-TR-201), '
   year: '2010'
 - address: Miami, FL
   author: Boris Babenko, Ming-Hsuan Yang, Serge Belongie
@@ -2042,8 +2048,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/miltrack_cvpr09.pdf, http://vision.ucsd.edu/~bbabenko/project_miltrack.html
+  pub_type: inproceedings
   ref: '157'
   title: Visual Tracking with Online Multiple Instance Learning
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Miami,
+    FL, '
   year: '2009'
 - address: Miami, FL
   author: Vincent Rabaud, Serge Belongie
@@ -2053,8 +2062,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/paper.pdf
+  pub_type: inproceedings
   ref: '158'
   title: Linear Embeddings in Non-Rigid Structure From Motion
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Miami,
+    FL, '
   year: '2009'
 - author: Josh Wills, Sameer Agarwal, David Kriegman, Serge Belongie
   date: '2009-01-01'
@@ -2065,8 +2077,10 @@
     url: /se3/wp-content/uploads/2014/09/a103-wills.pdf
   number: '4'
   pages: 1-15
+  pub_type: article
   ref: '191'
   title: Toward a Perceptual Space for Gloss
+  venue: 'ACM Transactions on Graphics, 28 (4), '
   volume: '28'
   year: '2009'
 - address: Miami, FL
@@ -2077,9 +2091,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/ViSU09.pdf
+  pub_type: inproceedings
   ref: '202'
   title: 'Scenes vs. Objects: a Comparative Study of Two Approaches to Context Based
     Recognition'
+  venue: 'International Workshop on Visual Scene Understanding (ViSU), Miami, FL, '
   year: '2009'
 - address: Paris, France
   author: Peter Faymonville, Kai Wang, John Miller, Serge Belongie
@@ -2090,8 +2106,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/soylentgrid-abstract_0.pdf, /se3/wp-content/uploads/2014/09/soylentgrid.pdf,
       http://www.hcomp2009.org
+  pub_type: inproceedings
   ref: '229'
   title: CAPTCHA-based Image Labeling on the Soylent Grid
+  venue: 'Human Computation Workshop (HCOMP), Paris, France, '
   year: '2009'
 - address: Kyoto, Japan
   author: Boris Babenko, Steve Branson, Serge Belongie
@@ -2101,8 +2119,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/musl_iccv09.pdf
+  pub_type: inproceedings
   ref: '233'
   title: 'Similarity Metrics for Categorization: from Monolithic to Category Specific'
+  venue: 'International Conference on Computer Vision (ICCV), Kyoto, Japan, '
   year: '2009'
 - address: London, England
   author: "Piotr Doll\xE1r, Zhuowen Tu, Pietro Perona, Serge Belongie"
@@ -2112,16 +2132,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/dollarBMVC09ChnFtrs_0.pdf
+  pub_type: inproceedings
   ref: '234'
   title: Integral Channel Features
-  year: '2009'
-- address: Kyoto, Japan
-  author: Manmohan Chandraker, Jongwoo Lim, David Kriegman
-  booktitle: ICCV
-  date: '2009-01-01'
-  keywords: ''
-  ref: '238'
-  title: 'Moving in Stereo: Efficient Structure and Motion Using Lines'
+  venue: 'British Machine Vision Conference (BMVC), London, England, '
   year: '2009'
 - address: Kyoto
   author: Boris Babenko, Ming-Hsuan Yang, Serge Belongie
@@ -2131,8 +2145,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/osb_iccv09_cam.pdf
+  pub_type: inproceedings
   ref: '240'
   title: A Family of Online Boosting Algorithms
+  venue: 'Online Learning for Computer Vision (OLCV), Kyoto, '
   year: '2009'
 - address: Kyoto, Japan
   author: Carolina Galleguillos, Peter Faymonville, Serge Belongie
@@ -2142,8 +2158,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/galleguillos_lavd.pdf
+  pub_type: inproceedings
   ref: '241'
   title: 'BUBL: An Effective Region Labeling Tool Using a Hexagonal Lattice'
+  venue: 'Workshop on Emergent Issues in Large Amounts of Visual Data, Kyoto, Japan, '
   year: '2009'
 - address: Austin, TX
   author: "Sravanthi Kota Venkata, Ikkjin Ahn, \uFEFF\uFEFFDonghwan Jeon, Anshuman\
@@ -2155,8 +2173,11 @@
   link:
     display: PDF
     url: http://parallel.ucsd.edu/vision
+  pub_type: inproceedings
   ref: '242'
   title: 'SD-VBS: The San Diego Vision Benchmark Suite'
+  venue: 'IEEE International Symposium on Workload Characterization (IISWC), Austin,
+    TX, '
   year: '2009'
 - author: "Boris Babenko, Piotr Doll\xE1r, Serge Belongie"
   date: '2009-01-01'
@@ -2164,8 +2185,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/qbag_TR.pdf
+  pub_type: article
   ref: '243'
   title: Multiple Instance Learning with Query Bags
+  venue: ', '
   year: '2009'
 - address: Snowbird, UT
   author: Hourieh Fakourfar, Serge Belongie
@@ -2175,8 +2198,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/PID1036733.pdf
+  pub_type: inproceedings
   ref: '245'
   title: Fingerprint Recognition System Performance in the Maritime Environment
+  venue: 'Workshop on Applications of Computer Vision (WACV), Snowbird, UT, '
   year: '2009'
 - author: Manmohan Chandraker, Sameer Agarwal, David Kriegman, Serge Belongie
   date: '2009-01-01'
@@ -2185,18 +2210,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/iccv07_stratum.pdf
+  pub_type: article
   ref: '246'
   title: Globally Optimal Algorithms for Stratified Autocalibration
-  year: '2009'
-- author: Neel Joshi, C. L. Zitnick, R. Szeliski, David Kriegman
-  booktitle: CVPR
-  date: '2009-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/Joshi-CVPR09.pdf
-  ref: '378'
-  title: Image Deblurring and Denoising using Color Prior
+  venue: 'International Journal of Computer Vision (IJCV), '
   year: '2009'
 - address: Marseille, France
   author: "Boris Babenko, Piotr Doll\xE1r, Zhuowen Tu, Serge Belongie"
@@ -2206,8 +2223,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/BabenkoEtAlECCV08simul.pdf
+  pub_type: inproceedings
   ref: Array
   title: 'Simultaneous Learning and Alignment: Multi-Instance and Multi-Pose Learning'
+  venue: 'RealFaces, Marseille, France, '
   year: '2008'
 - address: Marseille, France
   author: Carolina Galleguillos, Boris Babenko, Andrew Rabinovich, Serge Belongie
@@ -2217,8 +2236,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/galleguillos_eccv08_0.pdf
+  pub_type: inproceedings
   ref: Array
   title: Weakly Supervised Object Recognition and Localization with Stable Segmentations
+  venue: 'European Conference on Computer Vision (ECCV), Marseille, France, '
   year: '2008'
 - address: Anchorage, AK
   author: Carolina Galleguillos, Andrew Rabinovich, Serge Belongie
@@ -2228,8 +2249,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/galleguillos_cvpr08.pdf
+  pub_type: inproceedings
   ref: Array
   title: Object Categorization using Co-Occurrence, Location and Appearance
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Anchorage,
+    AK, '
   year: '2008'
 - address: Paris, France
   author: Martin Koch, Jonathan Maltz, Bijumon Gangadharan, Supratik Bose, Himanshu
@@ -2237,9 +2261,14 @@
   booktitle: ISBI
   date: '2008-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
+  pub_type: inproceedings
   ref: Array
   title: Automatic Co-registration of Volumetric Datasets Based on Prostate Seed Fiducial
     Markers
+  venue: 'ISBI, Paris, France, '
   year: '2008'
 - author: Fredrik Kahl, Sameer Agarwal, Manmohan Chandraker, David Kriegman, Serge
     Belongie
@@ -2252,35 +2281,11 @@
       /se3/wp-content/uploads/2014/09/eccv06b.pdf
   number: '3'
   pages: 271-284
+  pub_type: article
   ref: Array
   title: Practical Global Optimization for Multiview Geometry
+  venue: 'International Journal of Computer Vision (IJCV), 79 (3), '
   volume: '79'
-  year: '2008'
-- author: "Zhuowen Tu, Katherine L. Narr, Piotr Doll\xE1r, Ivo Dinov, Paul M. Thompson,\
-    \ Arthur W. Toga"
-  date: '2008-01-01'
-  journal: Transactions on Medical Imaging
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/tu_hybrid.pdf
-  number: '4'
-  pages: 495-508
-  ref: TuTMI08
-  title: Brain Anatomical Structure Segmentation by Hybrid Discriminative/Generative
-    Models
-  volume: '27'
-  year: '2008'
-- address: Anchorage, AK
-  author: Neil G. Alldrin, Todd Zickler, David Kriegman
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2008-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr08a.pdf
-  ref: alldrin:2008a
-  title: Photometric Stereo With Non-Parametric and Spatially-Varying Reflectance
   year: '2008'
 - author: Carolina Galleguillos, Serge Belongie
   date: '2008-01-01'
@@ -2289,8 +2294,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/context_review08_0.pdf
   number: CS2008-092
+  pub_type: techreport
   ref: '169'
   title: 'Context Based Object Categorization: A Critical Survey'
+  venue: '(CS2008-092), '
   year: '2008'
 - author: "Piotr Doll\xE1r, Boris Babenko, Pietro Perona, Serge Belongie, Zhuowen\
     \ Tu"
@@ -2300,19 +2307,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/DollarEtAlECCV08mcl.pdf
+  pub_type: inproceedings
   ref: '19'
   title: Multiple Component Learning for Object Detection
-  year: '2008'
-- address: Anchorage, Alaska
-  author: Manmohan Chandraker, David Kriegman
-  booktitle: CVPR
-  date: '2008-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/manmohan_kriegman.pdf
-  ref: '193'
-  title: Globally Optimal Bilinear Programming for Computer Vision Applications
+  venue: 'European Conference on Computer Vision (ECCV), '
   year: '2008'
 - author: Vincent Rabaud, Serge Belongie
   booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
@@ -2321,8 +2319,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/ReThinkingNonRigidStructureFromMotion_CVPR08.pdf
+  pub_type: inproceedings
   ref: '20'
   title: Re-Thinking Non-Rigid Structure From Motion
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), '
   year: '2008'
 - author: Martin Koch, Jonathan Maltz, Serge Belongie, Bijumon Gangadharan, Supratik
     Bose, Ali Bani-Hashemi
@@ -2334,53 +2334,25 @@
     url: /se3/wp-content/uploads/2014/09/MPH004513_0.pdf, http://www.ncbi.nlm.nih.gov/pubmed/18975698
   number: '10'
   pages: 4513-23
+  pub_type: article
   ref: '230'
   title: Automatic coregistration of volumetric images based on implanted fiducial
     markers
+  venue: 'Medical Physics, 35 (10), '
   volume: '35'
-  year: '2008'
-- author: Todd Zickler, Satya Mallick, David Kriegman, Peter N. Belhumeur
-  chapter: '13'
-  date: '2008-01-01'
-  journal: International Journal of Computer Vision
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/ColorSubspaces_IJCV_0.pdf
-  pages: '13:30'
-  ref: '247'
-  title: Color Subspaces as Photometric Invariants
-  volume: 79(1)
-  year: '2008'
-- address: Anchorage, Alaska
-  author: Neel Joshi, Richard Szeliski, David Kriegman
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition
-  date: '2008-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/psf_estimation.pdf, http://vision.ucsd.edu/kriegman-grp/research/psf_estimation/
-  ref: '349'
-  title: PSF Estimation using Sharp Edge Prediction
-  year: '2008'
-- address: Alexandria, VA
-  author: Ben Laxton, Kai Wang, Stefan Savage
-  booktitle: ACM Conference on Computer and Communications Security (CCS)
-  date: '2008-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/CCS08OptDecode.pdf
-  ref: '376'
-  title: 'Reconsidering Physical Key Secrecy: Teleduplication via Optical Decoding'
   year: '2008'
 - address: Rio de Janeiro
   author: Stephan Steinbach, Vincent Rabaud, Serge Belongie
   booktitle: Workshop on Interactive Computer Vision (ICV)
   date: '2007-01-01'
   keywords: Crowdsourcing
+  link:
+    display: PDF
+    url: ''
+  pub_type: inproceedings
   ref: Array
   title: 'Soylent Grid: It''s Made of People!'
+  venue: 'Workshop on Interactive Computer Vision (ICV), Rio de Janeiro, '
   year: '2007'
 - address: Rio de Janeiro
   author: Andrew Rabinovich, Andrea Vedaldi, Carolina Galleguillos, Eric Wiewiora,
@@ -2391,8 +2363,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/iccv07.pdf
+  pub_type: inproceedings
   ref: Array
   title: Objects in Context
+  venue: 'ICCV, Rio de Janeiro, '
   year: '2007'
 - author: Andrew Rabinovich, Andrea Vedaldi, Serge Belongie
   date: '2007-01-01'
@@ -2401,8 +2375,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/cs2007-0908.pdf
   number: CS2007-090
+  pub_type: techreport
   ref: Array
   title: Does Image Segmentation Improve Object Categorization?
+  venue: '(CS2007-090), '
   year: '2007'
 - address: Rio de Janeiro
   author: "Boris Babenko, Piotr Doll\xE1r, Serge Belongie"
@@ -2412,8 +2388,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/boom_iccv07.pdf
+  pub_type: inproceedings
   ref: Array
   title: Task Specific Local Region Matching
+  venue: 'ICCV, Rio de Janeiro, '
   year: '2007'
 - address: Minneapolis, MN
   author: Michele Merler, Carolina Galleguillos, Serge Belongie
@@ -2423,8 +2401,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/grozi_slam.pdf
+  pub_type: inproceedings
   ref: Array
   title: Recognizing Groceries in situ Using in vitro Training Data
+  venue: 'SLAM, Minneapolis, MN, '
   year: '2007'
 - address: San Juan, Puerto Rico
   author: Sameer Agarwal, Josh Wills, Lawrence Cayton, Gert Lanckriet, David Kriegman,
@@ -2435,8 +2415,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/nmds.pdf
+  pub_type: inproceedings
   ref: Array
   title: Generalized Non-metric Multidimensional Scaling
+  venue: 'AISTATS, San Juan, Puerto Rico, '
   year: '2007'
 - author: Manmohan Chandraker, Sameer Agarwal, David Kriegman, Serge Belongie
   booktitle: ICCV
@@ -2445,8 +2427,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/ijcv09_stratum.pdf
+  pub_type: inproceedings
   ref: chandrakericcv07
   title: Globally Optimal Affine and Metric Upgrades in Stratified Autocalibration
+  venue: 'ICCV, '
   year: '2007'
 - author: "Piotr Doll\xE1r, Vincent Rabaud, Serge Belongie"
   booktitle: International Conference On Machine Learning (ICML)
@@ -2455,8 +2439,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/DollarRabaudBelongieICML07manifold.pdf
+  pub_type: inproceedings
   ref: DollarICML07mani
   title: 'Non-Isometric Manifold Learning: Analysis and an Algorithm'
+  venue: 'International Conference On Machine Learning (ICML), '
   year: '2007'
 - author: "Piotr Doll\xE1r, Vincent Rabaud, Serge Belongie"
   date: '2007-01-01'
@@ -2466,20 +2452,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/DollarRabaudBelongieNIPS06manifold.pdf, /se3/wp-content/uploads/2014/09/DollarRabaudBelongieTR07manifold_0.pdf
   number: CS2007-087
+  pub_type: techreport
   ref: DollarTR07manifo
   title: Learning to Traverse Image Manifolds
-  year: '2007'
-- address: Rio de Janeiro, Brazil
-  author: Neil G. Alldrin, David Kriegman
-  booktitle: ICCV
-  date: '2007-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/Alldrin07.pdf
-  ref: alldrin:2007b
-  title: 'Toward Reconstructing Surfaces With Arbitrary Isotropic Reflectance : A
-    Stratified Photometric Stereo Approach'
+  venue: 'UCSD CSE (CS2007-087), '
   year: '2007'
 - author: "Piotr Doll\xE1r, Zhouwen Tu, Hai Tao, Serge Belongie"
   booktitle: CVPR
@@ -2488,96 +2464,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/dollarCVPR07ftrMining.pdf
+  pub_type: inproceedings
   ref: dollarCVPR07
   title: Feature Mining For Image Classification
-  year: '2007'
-- address: Minneapolis
-  author: Manmohan Chandraker, Sameer Agarwal, David Kriegman
-  booktitle: CVPR
-  date: '2007-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr07_shadowcuts.pdf
-  ref: '217'
-  title: 'ShadowCuts: Photometric Stereo with Shadows'
-  year: '2007'
-- address: Minneapolis
-  author: Manmohan Chandraker, Sameer Agarwal, Fredrik Kahl, David Kriegman, David
-    Nister
-  booktitle: CVPR
-  date: '2007-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr07_quadric.pdf
-  ref: '218'
-  title: Autocalibration via Rank-Constrained Estimation of the Absolute Quadric
-  year: '2007'
-- author: Ben Laxton, Jongwoo Lim, David Kriegman
-  booktitle: IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)
-  date: '2007-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr07b.pdf
-  ref: '290'
-  title: Leveraging Temporal, Contextual and Ordering Constraints for Recognizing
-    Complex Activities in Video
-  year: '2007'
-- author: Neil Alldrin, Satya Mallick, David Kriegman
-  booktitle: IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)
-  date: '2007-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr07a.pdf
-  ref: '291'
-  title: Resolving the Generalized Bas-Relief Ambiguity by Entropy Minimization
-  year: '2007'
-- author: Ping Tan, Satya Mallick, Long Quan, David Kriegman, Todd Zickler
-  booktitle: IEEE Conf. on Computer Vision and Pattern Recognition
-  date: '2007-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr07e.pdf
-  ref: '346'
-  title: Isotropy, Reciprocity and the Generalized Bas-Relief Ambiguity
-  year: '2007'
-- address: Rio de Janeiro, Brazil
-  author: Neel Joshi, Shai Avidan, Wojciech Matusik, David Kriegman
-  booktitle: IEEE International Conference on Computer Vision
-  date: '2007-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/iccv07c.pdf, http://vision.ucsd.edu/kriegman-grp/research/synthetic_ap_tracking/
-  ref: '347'
-  title: Tracking through Occlusions Using Multiple Cameras
-  year: '2007'
-- address: Rio de Janeiro, Brazil
-  author: Neel Joshi, David Kriegman
-  booktitle: IEEE International Conference on Computer Vision
-  date: '2007-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/iccv07b.pdf, http://vision.ucsd.edu/kriegman-grp/research/shape_illum_view/
-  ref: '348'
-  title: Shape from Varying Illumination and Viewpoint
-  year: '2007'
-- address: Lund
-  author: Oscar Beijbom
-  date: '2007-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/Single-image-focus-level-assessment-using-SVM.pdf
-  pages: '57'
-  ref: '410'
-  school: Lund University
-  title: Single image focus level assessment using Support Vector Machines
+  venue: 'CVPR, '
   year: '2007'
 - author: Josh Wills, Sameer Agarwal, Serge Belongie
   date: '2006-01-01'
@@ -2588,9 +2478,11 @@
     url: /se3/wp-content/uploads/2014/09/WillsAB_ijcv06.pdf
   number: '2'
   pages: 125-143
+  pub_type: article
   ref: Array
   title: A Feature-based Approach for Dense Segmentation and Estimation of Large Disparity
     Motion
+  venue: 'International Journal of Computer Vision (IJCV), 68 (2), '
   volume: '68'
   year: '2006'
 - author: Andrew Rabinovich, Stanislaw Krajewski, Maryla Krajewska, Ahmed Shabaik,
@@ -2603,8 +2495,10 @@
     url: /se3/wp-content/uploads/2014/09/TMI06.pdf
   number: '12'
   pages: 209-219
+  pub_type: article
   ref: Array
   title: Automated Scanning and Display of Tissue Microarrays
+  venue: 'IEEE Transactions on Information Technology in Biomedicine, 10 (12), '
   volume: '10'
   year: '2006'
 - address: Pittsburgh, PA
@@ -2615,8 +2509,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/icml06.pdf
+  pub_type: inproceedings
   ref: Array
   title: Higher-Order Learning with Graphs
+  venue: 'International Conference On Machine Learning (ICML), Pittsburgh, PA, '
   year: '2006'
 - address: New York City
   author: Robin Hewitt, Serge Belongie
@@ -2626,8 +2522,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/HewittB06a.pdf
+  pub_type: inproceedings
   ref: Array
   title: 'Active Learning in Face Recognition: Using Tracking to Build a Face Model'
+  venue: 'V4HCI, New York City, '
   year: '2006'
 - address: New York City
   author: Nadav Ben-Haim, Boris Babenko, Serge Belongie
@@ -2637,8 +2535,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/slam06.pdf
+  pub_type: inproceedings
   ref: Array
   title: Improving Web-based Image Search via Content Based Clustering
+  venue: 'SLAM, New York City, '
   year: '2006'
 - address: New York City
   author: Vincent Rabaud, Serge Belongie
@@ -2648,8 +2548,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/CountingCrowdedMovingObjects_CVPR06.pdf
+  pub_type: inproceedings
   ref: Array
   title: Counting Crowded Moving Objects
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), New York
+    City, '
   year: '2006'
 - address: New York City
   author: "Piotr Doll\xE1r, Zhuowen Tu, Serge Belongie"
@@ -2659,8 +2562,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/dollarCVPR06edge.pdf
+  pub_type: inproceedings
   ref: Array
   title: Supervised Learning of Edges and Object Boundaries
+  venue: 'CVPR, New York City, '
   year: '2006'
 - address: New York City
   author: Andrew Rabinovich, Tilman Lange, Joachim Buhmann, Serge Belongie
@@ -2670,8 +2575,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/650Rabinovich.pdf
+  pub_type: inproceedings
   ref: Array
   title: Model Order Selection and Cue Combination for Image Segmentation
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), New York
+    City, '
   year: '2006'
 - address: New York City
   author: Satya Mallick, Sameer Agarwal, David Kriegman, Serge Belongie, Bridget Carragher,
@@ -2682,9 +2590,12 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/robusto.pdf
+  pub_type: inproceedings
   ref: Array
   title: 'Structure and View Estimation for Tomographic Reconstruction: A Bayesian
     Approach'
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), New York
+    City, '
   year: '2006'
 - address: Graz, Austria
   author: Ben Ochoa, Serge Belongie
@@ -2694,8 +2605,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/ochoa06.pdf
+  pub_type: inproceedings
   ref: Array
   title: Covariance Propagation for Guided Matching
+  venue: 'SMVP, Graz, Austria, '
   year: '2006'
 - address: Graz, Austria
   author: Sameer Agarwal, Manmohan Chandraker, Fredrik Kahl, David Kriegman, Serge
@@ -2708,20 +2621,11 @@
     url: /se3/wp-content/uploads/2014/09/eccv06.pdf, /se3/wp-content/uploads/2014/09/kahl-agarwal-etal-ijcv-07.pdf,
       /se3/wp-content/uploads/2014/09/eccv06b.pdf
   pages: 592-605
+  pub_type: inproceedings
   ref: Array
   title: Practical Global Optimization for Multiview Geometry
+  venue: 'European Conference on Computer Vision (ECCV), Graz, Austria, '
   volume: '1'
-  year: '2006'
-- address: New York, NY
-  author: Neil G. Alldrin, David Kriegman
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2006-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr06a.pdf
-  ref: alldrin:2006a
-  title: A Planar Light Probe
   year: '2006'
 - author: "Piotr Doll\xE1r, Vincent Rabaud, Serge Belongie"
   booktitle: Neural Information Processing Systems Conference (NIPS)
@@ -2730,64 +2634,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/DollarRabaudBelongieNIPS06manifold.pdf, /se3/wp-content/uploads/2014/09/DollarRabaudBelongieTR07manifold_0.pdf
+  pub_type: inproceedings
   ref: DollarNIPS06man
   title: Learning to Traverse Image Manifolds
-  year: '2006'
-- author: Jeff Ho, Jongwoo Lim, Ming-Hsuan Yang, David Kriegman
-  booktitle: European Conference on Computer Vision (ECCV)
-  date: '2006-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/eccv06c.pdf
-  pages: 239-250
-  ref: '340'
-  title: Integrating Surface Normal Vectors using Fast Marching Method
-  year: '2006'
-- author: Sameer Agarwal, Manmohan Chandraker, Fredrik Kahl, David Kriegman
-  booktitle: European Conference on Computer Vision (ECCV)
-  date: '2006-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/eccv06.pdf, /se3/wp-content/uploads/2014/09/kahl-agarwal-etal-ijcv-07.pdf,
-      /se3/wp-content/uploads/2014/09/eccv06b.pdf
-  pages: 271-284
-  ref: '342'
-  title: Practical Global Optimization for Multiview Geometry
-  year: '2006'
-- author: Satya Mallick, Todd Zickler, Peter N. Belhumeur, David Kriegman
-  booktitle: European Conference on Computer Vision (ECCV)
-  date: '2006-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/eccv06a.pdf
-  pages: 550--563
-  ref: '343'
-  title: 'Specularity Removal in Images and Videos: A PDE Approach'
-  year: '2006'
-- author: Todd Zickler, Satya Mallick, David Kriegman, Peter N. Belhumeur
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2006-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr06b.pdf
-  pages: 13 - 30
-  ref: '344'
-  title: Color Spaces as Photometric Invariants
-  year: '2006'
-- author: Sebastian Magda, David Kriegman
-  booktitle: Proceedings of the Eurographics Symposium on Rendering
-  date: '2006-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/egsr06.pdf
-  pages: 19-29
-  ref: '345'
-  title: Reconstruction of Volumetric Surface Textures for Real-Time Rendering
+  venue: 'Neural Information Processing Systems Conference (NIPS), '
   year: '2006'
 - author: Greg Mori, Serge Belongie, Jitendra Malik
   date: '2005-01-01'
@@ -2798,8 +2648,10 @@
     url: /se3/wp-content/uploads/2014/09/01512062.pdf
   number: '11'
   pages: 1832-1837
+  pub_type: article
   ref: Array
   title: Efficient Shape Matching Using Shape Contexts
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence, 27 (11), '
   volume: '27'
   year: '2005'
 - address: Genova, Italy
@@ -2807,9 +2659,14 @@
   booktitle: ICIP
   date: '2005-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
   pages: 85-88
+  pub_type: inproceedings
   ref: Array
   title: Spatio-temporal texture synthesis and image inpainting for video applications
+  venue: 'ICIP, Genova, Italy, '
   volume: '2'
   year: '2005'
 - address: Wageningen, NL
@@ -2821,8 +2678,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/MonitoringAnimalBehaviorInTheSmartVivarium_Wageningen05.pdf
   pages: 70-72
+  pub_type: inproceedings
   ref: Array
   title: Monitoring Animal Behavior in the Smart Vivarium
+  venue: 'Measuring Behavior, Wageningen, NL, '
   year: '2005'
 - author: Serge Belongie, Greg Mori, Jitendra Malik
   booktitle: Analysis and Statistics of Shapes
@@ -2831,26 +2690,38 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/00853834.pdf
+  pub_type: inbook
   publisher: "Birkh\xE4user"
   ref: Array
   title: Matching with Shape Contexts
+  venue: "Analysis and Statistics of Shapes Birkh\xE4user, "
   year: '2005'
 - address: Beijing, China
   author: "Ivan Laptev, Serge Belongie, Patrick P\xE9rez, Josh Wills"
   booktitle: ICCV
   date: '2005-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
   pages: 816-823
+  pub_type: inproceedings
   ref: Array
   title: Periodic Motion Detection and Segmentation via Approximate Sequence Alignment
+  venue: 'ICCV, Beijing, China, '
   volume: '1'
   year: '2005'
 - author: Louka Dlagnekov, Serge Belongie
   date: '2005-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
   number: CS2005-083
+  pub_type: techreport
   ref: Array
   title: Recognizing Cars
+  venue: '(CS2005-083), '
   year: '2005'
 - author: "Mar\xEDlia Maschion, Vincent Rabaud, Serge Belongie"
   date: '2005-01-01'
@@ -2858,9 +2729,11 @@
   link:
     display: PDF
     url: http://vision.ucsd.edu/cvd
+  pub_type: article
   publisher: UCSD/Calit2
   ref: Array
   title: 'Computer Vision: Fact and Fiction'
+  venue: 'UCSD/Calit2, '
   year: '2005'
 - address: Beijing, China
   author: "Piotr Doll\xE1r, Vincent Rabaud, Garrison Cottrell, Serge Belongie"
@@ -2871,8 +2744,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/BehaviorRecognitionViaSparseSpatioTemporalFeatures_VSPET05.pdf
+  pub_type: inproceedings
   ref: Array
   title: Behavior Recognition via Sparse Spatio-Temporal Features
+  venue: 'IEEE International Workshop on Performance Evaluation of Tracking and Surveillance
+    (PETS), Beijing, China, '
   year: '2005'
 - address: San Diego, CA
   author: Vincent Rabaud, Serge Belongie
@@ -2882,8 +2758,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/BigLittleIcons_CVAVI05.pdf
+  pub_type: inproceedings
   ref: Array
   title: Big Little Icons
+  venue: 'Computer Vision Applications for the Visually Impaired (CVAVI), San Diego,
+    CA, '
   year: '2005'
 - address: San Diego, CA
   author: Sameer Agarwal, Jongwoo Lim, Lihi Zelnik-Manor, Pietro Perona, David Kriegman,
@@ -2895,8 +2774,10 @@
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/05/bpc.pdf
   pages: 838-845
+  pub_type: inproceedings
   ref: Array
   title: Beyond Pairwise Clustering
+  venue: 'CVPR, San Diego, CA, '
   volume: '2'
   year: '2005'
 - address: San Diego, CA
@@ -2904,149 +2785,15 @@
   booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2005-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
   note: ', (in review)'
+  pub_type: inproceedings
   ref: BransonB05
   title: Tracking Multiple Mouse Contours (Without Too Many Samples)
-  year: '2005'
-- author: David Kriegman, Jeff Ho, Kuang-Chih Lee
-  date: '2005-01-01'
-  journal: IEEE Transactions Pattern Analysis and Machine Intelligence (PAMI)
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/pami05.pdf
-  number: '5'
-  pages: 684-698
-  ref: '292'
-  title: Acquiring Linear Subspaces for Face Recognition under Variable Lighting
-  volume: '27'
-  year: '2005'
-- address: San Diego
-  author: Henrik Stewenius, David Nister, Fredrik Kahl, Fredrik Schaffalitzky
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2005-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr05d.pdf
-  pages: "789\u2013794"
-  ref: '293'
-  title: A Minimal Solution for Relative Pose with Unknown Focal Length
-  year: '2005'
-- author: Satya Mallick, Bridget Carragher, Clinton S. Potter, David Kriegman
-  date: '2005-01-01'
-  journal: Ultramicroscopy
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/um05.pdf
-  number: '1'
-  pages: 8-29
-  ref: '325'
-  title: 'ACE: Automated CTF Estimation'
-  volume: '104'
-  year: '2005'
-- author: Jan Erik Solem, Fredrik Kahl, Anders Heyden
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2005-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr05c.pdf
-  pages: 892- 899
-  ref: '326'
-  title: Visibility Constrained Surface Evolution
-  year: '2005'
-- author: Jongwoo Lim, Ming-Hsuan Yang
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2005-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr05b.pdf
-  pages: 1196- 1202
-  ref: '328'
-  title: A Direct Method for Modeling Non-rigid Motion with Thin Plate Spline
-  year: '2005'
-- author: Manmohan Chandraker, Fredrik Kahl, David Kriegman
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2005-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr05e.pdf
-  pages: 788 - 795
-  ref: '330'
-  title: Reflections on the Generalized Bas-Relief Ambiguity
-  year: '2005'
-- author: Kuang-Chih Lee, David Kriegman
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2005-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr05f.pdf
-  pages: 852 - 859
-  ref: '331'
-  title: Online Learning of Probabilistic Appearance Manifolds for Video-based Recognition
-    and Tracking
-  year: '2005'
-- author: Satya Mallick, Todd Zickler, David Kriegman, Peter N. Belhumeur
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2005-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr05g.pdf
-  pages: 619- 626
-  ref: '332'
-  title: 'Beyond Lambert: Reconstructing Specular Surfaces Using Color'
-  year: '2005'
-- address: Beijing
-  author: Fredrik Kahl, Didier Henrion
-  booktitle: IEEE International Conference on Computer Vision (ICCV)
-  date: '2005-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/iccv05a.pdf
-  pages: 978-985
-  ref: '334'
-  title: Globally Optimal Estimates for Geometric Reconstruction Problem
-  year: '2005'
-- address: Beijing
-  author: Fredrik Kahl
-  booktitle: IEEE International Conference on Computer Vision (ICCV)
-  date: '2005-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/iccv05b.pdf
-  ref: '336'
-  title: Multiple View Geometry and the L-infinity Norm
-  year: '2005'
-- address: Beijing
-  author: Jongwoo Lim, Jeff Ho, Ming-Hsuan Yang, David Kriegman
-  booktitle: IEEE International Conference on Computer Vision (ICCV)
-  date: '2005-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/iccv05c.pdf
-  pages: 1635 - 1642
-  ref: '337'
-  title: Passive Photometric Stereo from Motion
-  year: '2005'
-- author: Kuang-Chih Lee, Jeff Ho, Ming-Hsuan Yang, David Kriegman
-  booktitle: Computer Vision and Image Understanding (CVIU)
-  date: '2005-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cviu05.pdf
-  pages: 303-331
-  ref: '338'
-  title: Visual Tracking and Recognition Using Probabilistic Appearance Manifolds
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), San Diego,
+    CA, '
   year: '2005'
 - address: Prague, Czech Republic
   author: Sameer Agarwal, Satya Mallick, David Kriegman, Serge Belongie
@@ -3057,9 +2804,11 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/fulltext7.pdf
   organization: Springer Verlag
+  pub_type: inproceedings
   publisher: Springer Verlag
   ref: AgarwalMKB04
   title: On Refractive Optical Flow
+  venue: 'ECCV, Prague, Czech Republic, '
   year: '2004'
 - author: Julio Carballido Gamio, Serge Belongie, Sharmila Majumdar
   date: '2004-01-01'
@@ -3070,8 +2819,10 @@
     url: /se3/wp-content/uploads/2014/09/01256425.pdf
   number: '1'
   pages: 36-44
+  pub_type: article
   ref: Array
   title: Normalized Cuts in 3D for Spinal MRI Segmentation
+  venue: 'IEEE Transactions on Medical Imaging, 23 (1), '
   volume: '23'
   year: '2004'
 - address: Prague, Czech Republic
@@ -3083,40 +2834,27 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/fulltext5.pdf
   organization: Springer Verlag
+  pub_type: inproceedings
   publisher: Springer Verlag
   ref: BelongieW04
   title: Structure from Periodic Motion
+  venue: 'Workshop on Spatial Coherence for Visual Motion Analysis (SCVMA), Prague,
+    Czech Republic, '
   year: '2004'
 - author: Charless Fowlkes, Serge Belongie, Fan Chung, Jitendra Malik
   date: '2004-01-01'
   journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
   keywords: ''
-  number: '2'
-  pages: 214-225
-  ref: FowlkesBCM04
-  title: "Spectral Grouping Using the Nystr\xF6m Method"
-  volume: '26'
-  year: '2004'
-- author: Jeff Ho, K.C. Lee, M.-H. Yang, David Kriegman
-  booktitle: CVPR
-  date: '2004-01-01'
-  keywords: ''
   link:
     display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr04-1.pdf
-  pages: 782-789
-  ref: Jeff04
-  title: Visual Tracking Using Learned Linear Subspaces
-  year: '2004'
-- author: Satya Mallick, Yuanxin Zhu, David Kriegman
-  date: '2004-01-01'
-  journal: Journal of Structural Biology
-  keywords: ''
-  number: '1'
-  pages: 52-62
-  ref: mallick-jsb-2004
-  title: Detecting Particles in Cyro-EM Micrographs using Learned Features
-  volume: '145'
+    url: ''
+  number: '2'
+  pages: 214-225
+  pub_type: article
+  ref: FowlkesBCM04
+  title: "Spectral Grouping Using the Nystr\xF6m Method"
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence, 26 (2), '
+  volume: '26'
   year: '2004'
 - address: Prague, Czech Republic
   author: Josh Wills, Serge Belongie
@@ -3127,74 +2865,11 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/fulltext6.pdf
   organization: Springer Verlag
+  pub_type: inproceedings
   publisher: Springer Verlag
   ref: WillsB04
   title: A Feature-based Approach for Determining Dense Long Range Correspondences
-  year: '2004'
-- author: Amit Sethi, David Renaudie, David Kriegman, Jean Ponce
-  date: '2004-01-01'
-  journal: International Journal of Computer Vision
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/ijcv03.pdf
-  number: '1'
-  pages: 73-86
-  ref: '299'
-  title: Curve and Surface Duals and the Recognition of Curved 3D Objects from their
-    Silhouette
-  volume: '58'
-  year: '2004'
-- author: Yuanxin Zhu, Bridget Carragher, Robert M. Glaeser, Denis Fellmann, Chandrajit
-    Bajaj, Marshall Bern, Fabrice Mouche, Felix de Haas, Richard J. Hall, David Kriegman,
-    Steven J. Ludtke, Satya Mallick, Pawel A. Penczek, Alan M. Roseman, Fred J. Sigworth,
-    Niels Volkmann, Clinton S. Potter
-  date: '2004-01-01'
-  journal: Journal of Structural Biology
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/ijcv03.pdf
-  number: 1-2
-  pages: 3-14
-  ref: '300'
-  title: 'Automatic Particle Selection: Results of a Comparative Study'
-  volume: '145'
-  year: '2004'
-- author: Yasutaka Furukawa, Amit Sethi, Jean Ponce, David Kriegman
-  booktitle: European Conference on Computer Vision
-  date: '2004-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/ijcv03.pdf
-  pages: 287-298
-  ref: '301'
-  title: Structure and Motion from Images of Smooth Textureless Objects
-  volume: '2'
-  year: '2004'
-- author: Jongwoo Lim, Jeff Ho, Kuang-Chih Lee, David Kriegman
-  booktitle: European Conference on Computer Vision
-  date: '2004-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/eccv04a.pdf
-  pages: 456-468
-  ref: '302'
-  title: Image Clustering with Metric, Local Linear Structure and Affinity Symmetry
-  volume: '1'
-  year: '2004'
-- author: Jongwoo Lim, David Kriegman
-  booktitle: International Conference on Automatic Face and Gesture Recognition
-  date: '2004-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/ijcv03.pdf
-  pages: 869 - 874
-  ref: '303'
-  title: Tracking Humans Using Prior and Learned Representations of Shape and Appearance
+  venue: 'European Conference on Computer Vision (ECCV), Prague, Czech Republic, '
   year: '2004'
 - author: Sameer Agarwal, Serge Belongie
   date: '2003-01-01'
@@ -3204,8 +2879,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/10.1.1.18.3541.pdf
   number: CS2003-076
+  pub_type: techreport
   ref: AgarwalB03
   title: Segmentation by Example
+  venue: 'UCSD (CS2003-076), '
   year: '2003'
 - address: San Diego, CA
   author: Sameer Agarwal, Ravi Ramamoorthi, Serge Belongie, Henrik Wann Jensen
@@ -3215,8 +2892,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/54_structured.pdf
+  pub_type: inproceedings
   ref: AgarwalRBJ03
   title: Structured Importance Sampling of Environment Maps
+  venue: 'SIGGRAPH, San Diego, CA, '
   year: '2003'
 - address: Nice, France
   author: Kristin Branson, Vincent Rabaud, Serge Belongie
@@ -3227,24 +2906,24 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/ThreeBrownMiceSeeHowTheyRun_VSPETS03.pdf
+  pub_type: inproceedings
   ref: BransonRB03
   title: 'Three Brown Mice: See How They Run'
-  year: '2003'
-- author: K.C. Lee, Jeff Ho, M.-H. Yang, David Kriegman
-  booktitle: CVPR
-  date: '2003-01-01'
-  keywords: ''
-  pages: "313\u2013320"
-  ref: Kuangchih03
-  title: Video-Based Face Recognition Using Probabilistic Appearance Manifolds
+  venue: 'IEEE International Workshop on Performance Evaluation of Tracking and Surveillance
+    (PETS), Nice, France, '
   year: '2003'
 - address: Vancouver, BC
   author: Rabinovich, A., Agarwal, S., Laris, C., Price, J., Serge Belongie
   booktitle: NIPS
   date: '2003-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
+  pub_type: inproceedings
   ref: RabinovichALPB03
   title: Unsupervised Spectral Decomposition of Histologically Stained Tissue Samples
+  venue: 'NIPS, Vancouver, BC, '
   year: '2003'
 - address: Madison, WI
   author: Josh Wills, Sameer Agarwal, Serge Belongie
@@ -3255,64 +2934,12 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/01211335.pdf
   pages: 37-44
+  pub_type: inproceedings
   ref: WillsAB03
   title: What Went Where
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Madison,
+    WI, '
   volume: '1'
-  year: '2003'
-- author: Todd Zickler, Peter N. Belhumeur, David Kriegman
-  booktitle: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2003-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr03c.pdf
-  pages: 548 - 555
-  ref: '286'
-  title: Toward a Stratification of Helmholtz Stereopsis
-  volume: '1'
-  year: '2003'
-- author: Jeff Ho, Ming-Hsuan Yang, Jongwoo Lim, Kuang-Chih Lee, David Kriegman
-  booktitle: IEEE Conf. on Computer Vision and Pattern Recognition
-  date: '2003-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr03c.pdf
-  pages: 11-18
-  ref: '294'
-  title: Clustering Appearances of Objects Under Varying Illumination Conditions
-  volume: '1'
-  year: '2003'
-- author: Sebastian Magda, David Kriegman
-  booktitle: Proceedings of the Eurographics Symposium on Rendering
-  date: '2003-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr03c.pdf
-  pages: 82-89
-  ref: '295'
-  title: Fast Texture Synthesis on Arbitrary Meshes
-  year: '2003'
-- author: M. L. Koudelka, Sebastian Magda, Peter N. Belhumeur, David Kriegman
-  booktitle: 3rd International Workshop on Texture Analysis and Synthesis
-  date: '2003-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/texture03.pdf
-  ref: '296'
-  title: Acquisition, Compression and Synthesis of Bidirectional Texture Functions
-  year: '2003'
-- author: T. Zickler, Jeff Ho, David Kriegman, Peter N. Belhumeur, Jean Ponce
-  booktitle: International Conference on Computer Vision
-  date: '2003-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/iccv03.pdf
-  ref: '297'
-  title: Binocular Helmholtz Stereopsis
   year: '2003'
 - author: Sameer Agarwal, Serge Belongie
   booktitle: ICIP
@@ -3322,8 +2949,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/10.1.1.7.6882.pdf
   pages: 677-680
+  pub_type: inproceedings
   ref: AgarwalB02
   title: On the Non-Optimality of Four Color Coding of Image Partitions
+  venue: 'ICIP, '
   volume: '2'
   year: '2002'
 - address: Paris, France
@@ -3331,8 +2960,13 @@
   booktitle: CARS
   date: '2002-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
+  pub_type: inproceedings
   ref: Array
   title: Normalized Cuts for Spinal MRI Segmentation
+  venue: 'CARS, Paris, France, '
   year: '2002'
 - author: Charless Fowlkes, Qun Shan, Serge Belongie, Jitendra Malik
   booktitle: Methods of Microarray Data Analysis II
@@ -3341,19 +2975,26 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/genecut-camda-final.pdf
+  pub_type: inbook
   publisher: Kluwer Academic
   ref: Array
   title: Extracting Global Structure from Gene Expression Profiles
+  venue: 'Methods of Microarray Data Analysis II Kluwer Academic, '
   year: '2002'
 - address: Copenhagen, Denmark
   author: Serge Belongie, C. Fowlkes, F. R. K. Chung, J. Malik
   booktitle: ECCV
   date: '2002-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
   organization: Springer Verlag
+  pub_type: inproceedings
   publisher: Springer Verlag
   ref: BelongieFCM02
   title: "Spectral Partitioning with Indefinite Kernels using the Nystr\xF6m Extension"
+  venue: 'ECCV, Copenhagen, Denmark, '
   year: '2002'
 - author: Serge Belongie, Jitendra Malik, Jan Puzicha
   date: '2002-01-01'
@@ -3364,19 +3005,27 @@
     url: /se3/wp-content/uploads/2014/09/7-3.pdf
   number: '4'
   pages: 509-522
+  pub_type: article
   ref: BelongieMP02
   title: Shape Matching and Object Recognition Using Shape Contexts
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence, 24 (4), '
   volume: '24'
   year: '2002'
 - author: Chad Carson, Serge Belongie, Hayit Greenspan, Jitendra Malik
   date: '2002-01-01'
   journal: IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
   keywords: ''
+  link:
+    display: PDF
+    url: ''
   number: '8'
   pages: 1026-1038
+  pub_type: article
   ref: CarsonBGM02
   title: 'Blobworld: Color- and Texture-Based Image Segmentation Using EM and Its
     Application to Image Querying and Classification'
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 24
+    (8), '
   volume: '24'
   year: '2002'
 - address: Copenhagen, Denmark
@@ -3389,67 +3038,12 @@
     url: /se3/wp-content/uploads/2014/09/fulltext4.pdf
   organization: Springer Verlag
   pages: 531-542
+  pub_type: inproceedings
   publisher: Springer Verlag
   ref: DonatoB02
   title: Approximate Thin Plate Spline Mappings
+  venue: 'ECCV, Copenhagen, Denmark, '
   volume: '2'
-  year: '2002'
-- author: Todd Zickler, Peter N. Belhumeur, David Kriegman
-  date: '2002-01-01'
-  journal: International Journal of Computer Vision
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/texture03.pdf, /se3/wp-content/uploads/2014/09/eccv02b.pdf
-  number: 215-227
-  ref: '298'
-  title: 'Helmholtz Stereopsis: Exploiting Reciprocity for Surface Reconstruction'
-  volume: '49'
-  year: '2002'
-- author: Svetlana Lazebnik, Amit Sethi, Cordelia Schmid, David Kriegman, Jean Ponce,
-    Martial Hebert
-  booktitle: ECCV
-  date: '2002-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/eccv02a.pdf
-  ref: '321'
-  title: On Pencils of Tangent Planes and the Recognition of Smooth 3D Shapes from
-    Silhouettes
-  year: '2002'
-- author: Todd Zickler, Peter N. Belhumeur, David Kriegman
-  booktitle: ECCV
-  date: '2002-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/texture03.pdf, /se3/wp-content/uploads/2014/09/eccv02b.pdf
-  ref: '322'
-  title: 'Helmholtz Stereopsis: Exploiting Reciprocity for Surface Reconstruction'
-  year: '2002'
-- author: Ming-Hsuan Yang, David Kriegman, Narendra Ahuja
-  date: '2002-01-01'
-  journal: IEEE PAMI
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/pami02.pdf
-  number: 24-1
-  pages: 34-58
-  ref: '323'
-  title: 'Detecting Faces in Images : A Survey'
-  year: '2002'
-- author: Kar-Han Tan, David Kriegman, Narendra Ahuja
-  booktitle: IEEE Workshop on the Application of Computer Vision
-  date: '2002-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/wacv02.pdf
-  pages: 191-195
-  ref: '324'
-  title: Appearance-based Eye Gaze Estimation
   year: '2002'
 - address: Durham, NC
   author: Charless Fowlkes, Qun Shan, Serge Belongie, Jitendra Malik
@@ -3459,8 +3053,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/genecut-camda-final.pdf
+  pub_type: inproceedings
   ref: Array
   title: Extracting Global Structure from Gene Expression Profiles
+  venue: 'CAMDA, Durham, NC, '
   year: '2001'
 - author: Serge Belongie, Jitendra Malik, Jan Puzicha
   booktitle: ICCV
@@ -3471,28 +3067,23 @@
     url: /se3/wp-content/uploads/2014/09/00937552.pdf
   note: ', (Awarded Helmholtz Prize at ICCV 2015)'
   pages: 454-461
+  pub_type: inproceedings
   ref: BelongieMP01a
   title: Matching Shapes
+  venue: 'ICCV, '
   volume: '1'
-  year: '2001'
-- author: K.C. Lee, Jeff Ho, David Kriegman
-  booktitle: CVPR
-  date: '2001-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr01b.pdf
-  pages: "519\u2013526"
-  ref: CVPR01
-  title: 'Nine Points of Lights: Acquiring Subspaces for Face Recognition under Variable
-    Lighting'
   year: '2001'
 - author: Charless Fowlkes, Serge Belongie, Jitendra Malik
   booktitle: CVPR
   date: '2001-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
+  pub_type: inproceedings
   ref: FowlkesBM01
   title: "Efficient Spatiotemporal Grouping Using the Nystr\xF6m Method"
+  venue: 'CVPR, '
   year: '2001'
 - author: Jitendra Malik, Serge Belongie, Thomas Leung, Jianbo Shi
   date: '2001-01-01'
@@ -3503,8 +3094,10 @@
     url: /se3/wp-content/uploads/2014/09/fulltext9.pdf
   number: '1'
   pages: 7-27
+  pub_type: article
   ref: MalikBLS01
   title: Contour and Texture Analysis for Image Segmentation
+  venue: 'International Journal of Computer Vision (IJCV), 43 (1), '
   volume: '43'
   year: '2001'
 - author: Greg Mori, Serge Belongie, Jitendra Malik
@@ -3514,106 +3107,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/00990547.pdf
+  pub_type: inproceedings
   ref: MoriBM01
   title: Shape Contexts Enable Efficient Retrieval of Similar Shapes
-  year: '2001'
-- author: Jeff Ho, K.C. Lee, David Kriegman
-  booktitle: 'IEEE CVPR Workshop on Identifying Objects Across Variations in Lighting:
-    Psychophysics and Computation'
-  date: '2001-01-01'
-  keywords: ''
-  pages: "56\u201363"
-  ref: Workshop01
-  title: On Reducing the Complexity of Illumination Cones for Face Recognition
-  year: '2001'
-- author: Jeff Ho, Kuang-Chih Lee, David Kriegman
-  booktitle: SIGGRAPH Technical Sketch
-  date: '2001-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/siggraph01.pdf, /se3/wp-content/uploads/2014/09/ieeevis01.pdf
-  ref: '278'
-  title: Compressing Large Polygonal Models
-  year: '2001'
-- author: David Kriegman, Peter N. Belhumeur
-  date: '2001-01-01'
-  journal: Journal of the Optical Society of America
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/josa01.pdf
-  ref: '280'
-  title: What Shadows Reveal About Object Structure
-  year: '2001'
-- author: Sebastian Magda, Todd Zickler, David Kriegman, Peter N. Belhumeur
-  booktitle: ICCV
-  date: '2001-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/iccv01.pdf
-  pages: 391-398
-  ref: '312'
-  title: 'Beyond Lambert: Reconstructing Surfaces with Arbitrary BRDFs'
-  year: '2001'
-- author: Athinodoros Georghiades, Peter N. Belhumeur, David Kriegman
-  date: '2001-01-01'
-  journal: IEEE PAMI
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/pami01.pdf
-  pages: 643-660
-  ref: '314'
-  title: 'From Few to Many: Illumination Cone Models for Face Recognition under Variable
-    lighting and Pose'
-  year: '2001'
-- author: Melissa Koudelka, Sebastian Magda, Peter N. Belhumeur, David Kriegman
-  booktitle: CVPR
-  date: '2001-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr01a.pdf
-  pages: 568-575
-  ref: '315'
-  title: Image-based Modeling and Rendering of Surfaces with Arbitrary BRDFs
-  year: '2001'
-- author: Jeff Ho, Kuang-Chih Lee, David Kriegman
-  booktitle: IEEE Visualization
-  date: '2001-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/siggraph01.pdf, /se3/wp-content/uploads/2014/09/ieeevis01.pdf
-  pages: 357-362
-  ref: '317'
-  title: Compressing Large Polygonal Models
-  year: '2001'
-- author: Kuang-Chih Lee, Jeff Ho, David Kriegman
-  booktitle: CVPR
-  date: '2001-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cvpr01b.pdf
-  pages: 519-526
-  ref: '318'
-  title: 'NinePoints of Light: Acquiring Subspaces for Face Recognition under Variable
-    Lighting'
-  year: '2001'
-- author: Ming-Hsuan Yang, David Kriegman, Narendra Ahuja
-  date: '2001-01-01'
-  journal: CVIU
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/cviu01.pdf
-  number: '84'
-  pages: 264-284
-  ref: '320'
-  title: Face Detection Using Multimodal Density Models
+  venue: 'CVPR, '
   year: '2001'
 - author: Jitendra Malik, Serge Belongie, Thomas Leung, Jianbo Shi
   booktitle: Perceptual Organization for Artificial Vision Systems
@@ -3622,9 +3119,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/fulltext9.pdf
+  pub_type: inbook
   publisher: Kluwer Academic
   ref: Array
   title: Contour and Texture Analysis for Image Segmentation
+  venue: 'Perceptual Organization for Artificial Vision Systems Kluwer Academic, '
   year: '2000'
 - address: Hilton Head, SC
   author: Serge Belongie, J. Malik
@@ -3635,8 +3134,11 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/00853834.pdf
   pages: 20-26
+  pub_type: inproceedings
   ref: BelongieM00
   title: Matching with Shape Contexts
+  venue: 'Content-based Access of Image and Video Libraries (CBAIVL), Hilton Head,
+    SC, '
   year: '2000'
 - author: Serge Belongie, Jitendra Malik, Jan Puzicha
   booktitle: Neural Information Processing Systems Conference (NIPS)
@@ -3646,8 +3148,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/10.1.1.27.8567.pdf
   pages: 831-837
+  pub_type: inproceedings
   ref: BelongieMP00
   title: 'Shape Context: A new descriptor for shape matching and object recognition'
+  venue: 'Neural Information Processing Systems Conference (NIPS), '
   year: '2000'
 - address: Barcelona, Spain
   author: Jan Puzicha, Serge Belongie
@@ -3658,8 +3162,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/icpr00.pdf
   pages: 629-632
+  pub_type: inproceedings
   ref: PuzichaB00
   title: Model-based Halftoning for Color Image Segmentation
+  venue: 'International Conference on Pattern Recognition (ICPR), Barcelona, Spain, '
   volume: '3'
   year: '2000'
 - author: Serge Belongie
@@ -3668,41 +3174,26 @@
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2018/04/belongie.pdf
+  pub_type: book
   publisher: University of California, Berkeley
   ref: belongie2000image
   title: Image segmentation and shape matching for object recognition
-  year: '2000'
-- author: David Renaudie, David Kriegman, Jean Ponce
-  booktitle: European Conference on Computer Vision
-  date: '2000-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/eccv00a.pdf
-  ref: '354'
-  title: Duals, Invariants, and the Recognition of Smooth Objects from their Occluding
-    Contour
-  year: '2000'
-- author: Ming-Hsuan Yang, Narendra Ahuja, David Kriegman
-  booktitle: IEEE Conference on Automatic Face and Gesture Recognition
-  date: '2000-01-01'
-  keywords: ''
-  link:
-    display: PDF
-    url: /se3/wp-content/uploads/2014/09/fg00a.pdf
-  pages: 70-76
-  ref: '355'
-  title: Face Detection using Mixtures of Linear Subspaces
+  venue: 'University of California, Berkeley, '
   year: '2000'
 - author: Jitendra Malik, Jianbo Shi, Serge Belongie, Thomas Leung
   booktitle: Shape, Contour and Grouping in Computer Vision
   date: '1999-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
   organization: Springer Verlag
   pages: 155-164
+  pub_type: inproceedings
   publisher: Springer Verlag
   ref: Array
   title: Grouping in the Normalized Cut Framework
+  venue: 'Shape, Contour and Grouping in Computer Vision, '
   volume: LNCS 1681
   year: '1999'
 - address: Amsterdam
@@ -3711,35 +3202,55 @@
   booktitle: VISUAL
   date: '1999-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
   pages: "509\u2013516"
+  pub_type: inproceedings
   ref: CarsonTBHM99
   title: 'Blobworld: A system for region-based image indexing and retrieval'
+  venue: 'VISUAL, Amsterdam, '
   year: '1999'
 - author: J. Malik, Serge Belongie, Shi, J., Leung, T.
   booktitle: IEEE International Conference on Computer Vision (ICCV)
   date: '1999-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
   pages: 918-925
+  pub_type: inproceedings
   ref: MalikBSL99
   title: 'Textons, Contours and Regions: Cue Integration in Image Segmentation'
+  venue: 'IEEE International Conference on Computer Vision (ICCV), '
   year: '1999'
 - author: B.S. Manjunath, Y. Deng, D.A. Forsyth, C. Carson, S. Ioffe, Serge Belongie,
     J. Malik, W.- Y. Ma, A. Puri, T. Chen
   booktitle: 'Multimedia: Standards, Systems and Networks'
   date: '1999-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
+  pub_type: inbook
   publisher: Marcel Dekker
   ref: PuriC00
   title: Image retrieval in digital libraries
+  venue: 'Multimedia: Standards, Systems and Networks Marcel Dekker, '
   year: '1999'
 - address: Chicago, IL
   author: Jianbo Shi, Serge Belongie, Thomas Leung, Jitendra Malik
   booktitle: International Conference on Image Processing (ICIP)
   date: '1998-01-01'
   keywords: ''
+  link:
+    display: PDF
+    url: ''
   pages: 943-947
+  pub_type: inproceedings
   ref: Array
   title: 'Image and Video Segmentation: The Normalized Cut Framework'
+  venue: 'International Conference on Image Processing (ICIP), Chicago, IL, '
   volume: '1'
   year: '1998'
 - author: Serge Belongie, Chad Carson, Hayit Greenspan, Jitendra Malik
@@ -3750,9 +3261,11 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/00710790.pdf
   pages: "675\u2013682"
+  pub_type: inproceedings
   ref: BelongieCGM98
   title: Color- and Texture-Based Image Segmentation Using EM and Its Application
     to Content-Based Image Retrieval
+  venue: 'IEEE International Conference on Computer Vision (ICCV), '
   year: '1998'
 - address: Freiburg, Germany
   author: Serge Belongie, Jitendra Malik
@@ -3762,9 +3275,11 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/fulltext10.pdf
+  pub_type: inproceedings
   ref: BelongieMalik98
   title: 'Finding Boundaries in Natural Images: A New Method Using Point Descriptors
     and Area Completion'
+  venue: 'European Conference on Computer Vision (ECCV), Freiburg, Germany, '
   year: '1998'
 - author: Serge Belongie, Chad Carson, Hayit Greenspan, Jitendra Malik
   date: '1997-01-01'
@@ -3773,8 +3288,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/tr939.pdf
   number: 97-939
+  pub_type: techreport
   ref: Array
   title: Recognition of Images in Large Databases Using a Learning Framework
+  venue: '(97-939), '
   year: '1997'
 - address: Puerto Rico
   author: Chad Carson, Serge Belongie, Hayit Greenspan, Jitendra Malik
@@ -3785,8 +3302,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/cvpr97.pdf
   pages: 42-49
+  pub_type: inproceedings
   ref: CarsonBGM97
   title: Region-Based Image Querying
+  venue: 'Content-based Access of Image and Video Libraries (CBAIVL), Puerto Rico, '
   year: '1997'
 - author: Jitendra Malik, David Forsyth, Margaret Fleck, Hayit Greenspan, Thomas Leung,
     Chad Carson, Serge Belongie, Chris Bregler
@@ -3797,8 +3316,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/ICIP96.pdf
   pages: 761-764
+  pub_type: inproceedings
   ref: Array
   title: Finding Objects in Image Databases by Grouping
+  venue: 'International Conference on Image Processing (ICIP), '
   volume: '2'
   year: '1996'
 - address: Cambridge, England
@@ -3812,8 +3333,11 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/eccv96.pdf
   pages: 335-360
+  pub_type: inproceedings
   ref: Array
   title: Finding Pictures of Objects in Large Collections of Images
+  venue: 'ECCV textquoteright96 International Workshop on Object Recognition for Computer
+    Vision, Cambridge, England, '
   year: '1996'
 - author: Serge Belongie, Robert Blasi, Kevin Murphy
   date: '1996-01-01'
@@ -3822,8 +3346,10 @@
   link:
     display: PDF
     url: /se3/wp-content/uploads/2014/09/cs280.pdf
+  pub_type: techreport
   ref: Array
   title: Grouping of Color and Texture Features for Automated Image Annotation
+  venue: 'U.C. Berkeley, '
   year: '1996'
 - author: Hayit Greenspan, Serge Belongie, Pietro Perona, Rodney Goodman
   booktitle: International Conference on Pattern Recognition (ICPR)
@@ -3833,8 +3359,10 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/ICPR94-texture_0.pdf
   pages: 162-167
+  pub_type: inproceedings
   ref: GreenspanBPG94
   title: Rotation Invariant Texture Recognition Using a Steerable Pyramid
+  venue: 'International Conference on Pattern Recognition (ICPR), '
   volume: '2'
   year: '1994'
 - author: Hayit Greenspan, Serge Belongie, Pietro Perona, Rodney Goodman, Subrata
@@ -3846,6 +3374,8 @@
     display: PDF
     url: /se3/wp-content/uploads/2014/09/CVPR94_steerpyr.pdf
   pages: 222-228
+  pub_type: inproceedings
   ref: GreenspanBPGRA94
   title: Overcomplete Steerable Pyramid Filters and Rotation Invariance
+  venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), '
   year: '1994'

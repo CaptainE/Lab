@@ -23,11 +23,26 @@ permalink: /publications/
 
 {% if publi.year == pub_year %}
 
+{% if publi.note == null %}
+
   {{ publi.author }} <br />
   <b> {{ publi.title }} </b> <br />
-  {{ publi.booktitle }}, {{ publi.address }}, {{ publi.year }}{{ publi.note }}. <br />
+  {{ publi.venue }} {{ publi.year }}. <br />
   <a href="{{ publi.link.url }}">[{{ publi.link.display }}]</a>
 
+{% else %}
+
+  {{ publi.author }} <br />
+  <b> {{ publi.title }} </b> <br />
+  {{ publi.venue }} {{ publi.year }}{{ publi.note }}. <br />
+  <a href="{{ publi.link.url }}">[{{ publi.link.display }}]</a>
+
+{% endif %}
+
+<!-- {% if publi.link.url != null %}
+  <a href="{{ publi.link.url }}">[{{ publi.link.display }}]</a>
+{% endif %}
+ -->
 {% endif %}
 
 {% endfor %}
