@@ -40,11 +40,45 @@ permalink: /team/
 </div>
 {% endif %}
 
+## Postdoc
+
+<div class="row">
+
+{% for member in site.data.postdoc_members %}
+
+<div class="col-sm-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
+  <h4>{{ member.name }}</h4>
+  <h5> <a href="{{ member.website }}">Personal website</a> </h5>
+  <ul style="overflow: hidden"></ul>
+</div>
+
+{% endfor %}
+
+</div>
+
 ## PhD Students
 
 <div class="row">
 
 {% for member in site.data.phd_members %}
+
+<div class="col-sm-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
+  <h4>{{ member.name }}</h4>
+  <h5> <a href="{{ member.website }}">Personal website</a> </h5>
+  <ul style="overflow: hidden"></ul>
+</div>
+
+{% endfor %}
+
+</div>
+
+## Research Assistant
+
+<div class="row">
+
+{% for member in site.data.ra_members %}
 
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
